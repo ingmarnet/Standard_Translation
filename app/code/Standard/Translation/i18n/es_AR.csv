@@ -1448,7 +1448,7 @@ Day,Día,theme,frontend/Codazon/unlimited_default
 Hour,Hora,theme,frontend/Codazon/unlimited_default
 Min,Min,theme,frontend/Codazon/unlimited_default
 Sec,Seg,theme,frontend/Codazon/unlimited_default
-"%1% off","%1% de descuento",theme,frontend/Codazon/unlimited_default
+"%1% off","%1% off",theme,frontend/Codazon/unlimited_default
 "We can't find products matching the selection.","No encontramos productos que coincidan con la selección.",theme,frontend/Codazon/unlimited_default
 "Add to Wish List","Agregar a la lista de deseos",theme,frontend/Codazon/unlimited_default
 "Add to Compare","Agregar a comparar",theme,frontend/Codazon/unlimited_default
