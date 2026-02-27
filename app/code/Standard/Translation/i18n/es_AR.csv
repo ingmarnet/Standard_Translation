@@ -22370,3 +22370,1734 @@ Currency,Moneda,module,PayPal_Braintree
 "Braintree Transaction Source","Origen de transacción de Braintree",module,PayPal_Braintree
 "Dispute State","Etapa de la disputa",module,PayPal_Braintree
 "Review Order","Revisar pedido",module,PayPal_Braintree
+"More View Slider Style","Estilo del slider de más vistas",module,Codazon_ThemeLayoutPro
+"More View Thumbnail Margin","Margen de miniaturas de más vistas",module,Codazon_ThemeLayoutPro
+"Enable Manifier","Habilitar lupa",module,Codazon_ThemeLayoutPro
+"Inner Zoom","Zoom interno",module,Codazon_ThemeLayoutPro
+"Inner Zoom Ratio","Relación de zoom interno",module,Codazon_ThemeLayoutPro
+"0 < value ≤ 1","0 < valor ≤ 1",module,Codazon_ThemeLayoutPro
+"Show Caption at Bottom Side of Main Image","Mostrar leyenda debajo de la imagen principal",module,Codazon_ThemeLayoutPro
+"Manifier Width","Ancho de la lupa",module,Codazon_ThemeLayoutPro
+"Manifier Height","Alto de la lupa",module,Codazon_ThemeLayoutPro
+"Full Screen Zoom","Zoom a pantalla completa",module,Codazon_ThemeLayoutPro
+"Zoom step in percents for the fullscreen view (integer value)","Paso de zoom en porcentaje para pantalla completa (entero)",module,Codazon_ThemeLayoutPro
+"Display Product Labels","Mostrar etiquetas de producto",module,Codazon_ThemeLayoutPro
+"Display Product Labels on the Right Side of Product Image","Mostrar etiquetas a la derecha de la imagen",module,Codazon_ThemeLayoutPro
+"If set ""No"", the labels will be displayed on left side of product image.","Si marcás ""No"", las etiquetas se verán a la izquierda.",module,Codazon_ThemeLayoutPro
+"Display Social Links","Mostrar links de redes sociales",module,Codazon_ThemeLayoutPro
+"Custom Text","Texto personalizado",module,Codazon_ThemeLayoutPro
+"Display Sale Countdown Timer","Mostrar temporizador de cuenta regresiva",module,Codazon_ThemeLayoutPro
+"Display Sale Countdown Timer when product has special price and ""Special To Date"" is set","Mostrar cuenta regresiva cuando el producto está en oferta",module,Codazon_ThemeLayoutPro
+"Display Size Chart","Mostrar tabla de talles",module,Codazon_ThemeLayoutPro
+"Size Chart Type","Tipo de tabla de talles",module,Codazon_ThemeLayoutPro
+"Size Chart Page Link","Link a página de tabla de talles",module,Codazon_ThemeLayoutPro
+"Size Chart Popup","Popup de tabla de talles",module,Codazon_ThemeLayoutPro
+"Size Chart Attribute","Atributo de tabla de talles",module,Codazon_ThemeLayoutPro
+"The code of product attribute used as size chart popup content. Note: Empty ""Size Chart Link Label"" field below to use the attribute name as link label.","Código del atributo para el contenido de la tabla. Si dejás el campo de abajo vacío, se usará el nombre del atributo.",module,Codazon_ThemeLayoutPro
+"Size Chart Attribute Set Mappings","Mapeo de tabla de talles por conjunto de atributos",module,Codazon_ThemeLayoutPro
+"<p>Use syntax below: <br /> <attribute set 1 name>:<CMS block 1 identifier><br /> <attribute set 2 name>:<CMS block 2 identifier><br />(Break line to add new mapping).<br /> E.g.: </p><p style=""border:1px solid #eb5202;padding: 5px;margin: 10px 0px;""><span style=""color:#eb5202"">Default</span>:codazon-sizechart-default<br /><span style=""color:#eb5202"">Women Clothing</span>:codazon-sizechart-women-clothing</p><p>Note: Empty ""Size Chart Link Label"" field below to use the cms block name as link label.</p>","<p>Usá la sintaxis: <br /> <nombre del conjunto>:<identificador del bloque CMS><br />(Salto de línea para nuevo mapeo).<br /> Ej: </p><p style=""border:1px solid #eb5202;padding: 5px;margin: 10px 0px;""><span style=""color:#eb5202"">Default</span>:codazon-sizechart-default</p>",module,Codazon_ThemeLayoutPro
+"Size Chart Link Label","Etiqueta del link de tabla de talles",module,Codazon_ThemeLayoutPro
+"Display ""Buy Now"" button","Mostrar botón ""Comprar ahora""",module,Codazon_ThemeLayoutPro
+"Depends on design theme.","Depende del tema de diseño.",module,Codazon_ThemeLayoutPro
+"Custom Static Tab (Use CMS Blocks)","Pestaña estática personalizada (Bloques CMS)",module,Codazon_ThemeLayoutPro
+"Separate block identifier by comma (,).","Separá los identificadores por coma (,).",module,Codazon_ThemeLayoutPro
+"Custom Flexibe Tab (Use Product Attributes)","Pestaña flexible personalizada (Atributos de producto)",module,Codazon_ThemeLayoutPro
+"To add more tabs, you can go to menu Stores > Attributes > Product. Add new attribute. Separate attribute codes by comma (,).","Para agregar pestañas, creá atributos en Tiendas > Atributos. Separá los códigos por coma.",module,Codazon_ThemeLayoutPro
+"Tabs Order","Orden de las pestañas",module,Codazon_ThemeLayoutPro
+"The sort order of tabs in product view page (use layout block names range for sorting). You can use some block names below to input your custom order: product.info.description, product.attributes, reviews.tab, product-tab-codazon_custom_tab, product-tab-[product attribute code], product-tab-cms-[cms block identifier]. E.g.:<br />product.attributes,product.attributes,reviews.tab","Orden de las pestañas (usá los nombres de bloque). Ej: product.info.description, product.attributes, reviews.tab.",module,Codazon_ThemeLayoutPro
+"Removed Tabs","Pestañas eliminadas",module,Codazon_ThemeLayoutPro
+"The tabs need to be removed. You can use some block names below to input your custom removed tabs: product.info.description, product.attributes, reviews.tab, product-tab-codazon_custom_tab, product-tab-[product attribute code], product-tab-cms-[cms block identifier]. E.g.:<br /> product.attributes,reviews.tab","Pestañas que querés ocultar. Usá los nombres de bloque separados por coma.",module,Codazon_ThemeLayoutPro
+"Maximum Height of Details Tab","Altura máxima de la pestaña de detalles",module,Codazon_ThemeLayoutPro
+"If the product description is too long, and the height of Details tab is larger than your defined value, a ""More View"" button will be displayed. Leave empty if you don't use ""more view"" feature.","Si la descripción es muy larga, se mostrará un botón ""Ver más"". Dejá vacío para no limitar.",module,Codazon_ThemeLayoutPro
+"Enable Sticky ""Add to Cart - Qty""","Habilitar ""Agregar al carrito"" fijo",module,Codazon_ThemeLayoutPro
+"Display sticky ""Add to cart - Qty"" block when scrolling the product view page.","Muestra el bloque de compra fijo al hacer scroll.",module,Codazon_ThemeLayoutPro
+"Sticku ""Add to Cart - Qty"" Position","Posición del ""Agregar al carrito"" fijo",module,Codazon_ThemeLayoutPro
+"Display custom attribute","Mostrar atributo personalizado",module,Codazon_ThemeLayoutPro
+"Category View","Vista de categoría",module,Codazon_ThemeLayoutPro
+"Page Layout","Diseño de página",module,Codazon_ThemeLayoutPro
+"Display Category Description On","Mostrar descripción de categoría en",module,Codazon_ThemeLayoutPro
+"Maximum Height of Category Description","Altura máxima de descripción de categoría",module,Codazon_ThemeLayoutPro
+"If the category description is too long, and the height of Description section is larger than your defined value, a ""More View"" button will be displayed. Leave empty if you don't use ""more view"" feature.","Si la descripción es larga, se verá un botón ""Ver más"". Dejá vacío para no limitar.",module,Codazon_ThemeLayoutPro
+"Description HTML Query Selector","Selector de consulta HTML de descripción",module,Codazon_ThemeLayoutPro
+"Product Listing Design","Diseño del listado de productos",module,Codazon_ThemeLayoutPro
+Display,Mostrar,module,Codazon_ThemeLayoutPro
+"Right Margin on Desktop","Margen derecho en escritorio",module,Codazon_ThemeLayoutPro
+"( ↔ ) Horizontal Space Between Two Product Items (px)","( ↔ ) Espacio horizontal entre productos (px)",module,Codazon_ThemeLayoutPro
+"Bottom Margin on Desktop","Margen inferior en escritorio",module,Codazon_ThemeLayoutPro
+"( ↕ ) Vertical Space Between Two Product Items (px)","( ↕ ) Espacio vertical entre productos (px)",module,Codazon_ThemeLayoutPro
+"Right Margin on Mobile","Margen derecho en móvil",module,Codazon_ThemeLayoutPro
+"Bottom Margin on Mobile","Margen inferior en móvil",module,Codazon_ThemeLayoutPro
+"Name substring length","Largo del nombre (recorte)",module,Codazon_ThemeLayoutPro
+"Only used for some templates.","Solo usado para algunas plantillas.",module,Codazon_ThemeLayoutPro
+"Items Per Row (One Column Layout)","Productos por fila (Diseño de 1 columna)",module,Codazon_ThemeLayoutPro
+"Desktop 1900 view","Vista escritorio 1900",module,Codazon_ThemeLayoutPro
+"Screen width > 1900px","Ancho de pantalla > 1900px",module,Codazon_ThemeLayoutPro
+"Desktop 1600 view","Vista escritorio 1600",module,Codazon_ThemeLayoutPro
+"1600px ≤ Screen width < 1900px","1600px ≤ Ancho < 1900px",module,Codazon_ThemeLayoutPro
+"Desktop 1420 view","Vista escritorio 1420",module,Codazon_ThemeLayoutPro
+"1420px ≤ Screen width < 1600px","1420px ≤ Ancho < 1600px",module,Codazon_ThemeLayoutPro
+"Desktop 1280 view","Vista escritorio 1280",module,Codazon_ThemeLayoutPro
+"1280px ≤ Screen width < 1420px","1280px ≤ Ancho < 1420px",module,Codazon_ThemeLayoutPro
+"Desktop small view","Vista escritorio chico",module,Codazon_ThemeLayoutPro
+"980px ≤ Screen width < 1280px","980px ≤ Ancho < 1280px",module,Codazon_ThemeLayoutPro
+"Tablet lanscape view","Vista tablet horizontal",module,Codazon_ThemeLayoutPro
+"768px ≤ Screen width < 980px","768px ≤ Ancho < 980px",module,Codazon_ThemeLayoutPro
+"Tablet portrait view","Vista tablet vertical",module,Codazon_ThemeLayoutPro
+"480px ≤ Screen width < 768px","480px ≤ Ancho < 768px",module,Codazon_ThemeLayoutPro
+"Mobile lanscape view","Vista móvil horizontal",module,Codazon_ThemeLayoutPro
+"320px ≤ Screen width < 480px","320px ≤ Ancho < 480px",module,Codazon_ThemeLayoutPro
+"Mobile portrait view","Vista móvil vertical",module,Codazon_ThemeLayoutPro
+"Screen width < 320px","Ancho de pantalla < 320px",module,Codazon_ThemeLayoutPro
+"Items Per Row (Layout Two Columns)","Productos por fila (Diseño de 2 columnas)",module,Codazon_ThemeLayoutPro
+"Items Per Row (Layout Three Columns)","Productos por fila (Diseño de 3 columnas)",module,Codazon_ThemeLayoutPro
+"Subcategories Block","Bloque de subcategorías",module,Codazon_ThemeLayoutPro
+"Enable to Display","Habilitar visualización",module,Codazon_ThemeLayoutPro
+"Block Title","Título del bloque",module,Codazon_ThemeLayoutPro
+"Anchor Category: Displayed as slider","Categoría ancla: mostrar como slider",module,Codazon_ThemeLayoutPro
+"If set ""No"", the subcategories will be displayed as grid.","Si marcás ""No"", se verán como grilla.",module,Codazon_ThemeLayoutPro
+"Non Anchor Category: Displayed as slider","Categoría no ancla: mostrar como slider",module,Codazon_ThemeLayoutPro
+"Thumbnail Width","Ancho de miniatura",module,Codazon_ThemeLayoutPro
+"Space between two items (px)","Espacio entre productos (px)",module,Codazon_ThemeLayoutPro
+"Slider Autoplay","Reproducción automática",module,Codazon_ThemeLayoutPro
+"Autoplay Timeout (milliseconds)","Tiempo de espera (ms)",module,Codazon_ThemeLayoutPro
+"Show Slider Dots","Mostrar puntos del slider",module,Codazon_ThemeLayoutPro
+"Show Slider Arrows","Mostrar flechas del slider",module,Codazon_ThemeLayoutPro
+"Slider Loop","Bucle del slider (Loop)",module,Codazon_ThemeLayoutPro
+"Thumbnail Style","Estilo de miniatura",module,Codazon_ThemeLayoutPro
+"Enable Hovered Title","Habilitar título al pasar el mouse",module,Codazon_ThemeLayoutPro
+"If set ""Yes"", the category name is only displayed when hovering the category thumbnail.","Si marcás ""Sí"", el nombre solo se ve al pasar el mouse por la miniatura.",module,Codazon_ThemeLayoutPro
+"Thumbnail Placeholder","Marcador de posición de miniatura",module,Codazon_ThemeLayoutPro
+Blog,Blog,module,Codazon_ThemeLayoutPro
+"Date Format","Formato de fecha",module,Codazon_ThemeLayoutPro
+"Use Ajax Blog on Home Page","Usar Blog Ajax en la página de inicio",module,Codazon_ThemeLayoutPro
+Contact,Contacto,module,Codazon_ThemeLayoutPro
+"Display Google Map","Mostrar Google Map",module,Codazon_ThemeLayoutPro
+"Google API key","Google API key",module,Codazon_ThemeLayoutPro
+"Go to https://developers.google.com/maps/documentation/javascript/get-api-key to get key. If this field is empty, Google Map feature won't work","Obtené tu llave en Google Cloud. Si está vacío, el mapa no funcionará.",module,Codazon_ThemeLayoutPro
+"Google map url (No API needed)","URL de Google Map (Sin necesidad de API)",module,Codazon_ThemeLayoutPro
+"<p>If you don't have api key. You can use the Google map url instead. However, the features can be limited.</p><p>Go <a target=""_blank"" href=""https://www.embedgooglemap.net/"">this page</a> to get map url.</p><p>Note: After get the HTML code, only copy the <strong>src</strong> attribute value of <iframe> tag and paste it to this field. E.g.:</p><p style=""padding: 4px;border:1px solid #ccc;background: #f1f1f1;font-size: 13px;"">https://maps.google.com/maps?q=6505%20boulevard%20Henri-Bourassa,%20Montr%C3%A9al,%20Quebec,%20H1G2V5&t=&z=13&ie=UTF8&iwloc=&output=embed</p>","<p>Si no tenés API Key, podés usar la URL del mapa. Las funciones serán limitadas.</p><p>Entrá a <a target=""_blank"" href=""https://www.embedgooglemap.net/"">esta página</a>. Copiá solo el valor <strong>src</strong> de la etiqueta <iframe>.",module,Codazon_ThemeLayoutPro
+"Replacement Static Block","Bloque estático de reemplazo",module,Codazon_ThemeLayoutPro
+"If you don't have API key, you can use a CMS Block content instead of google map. Leave empty if you don't want to show anything.","Si no tenés API Key, podés usar un bloque CMS. Dejá vacío para no mostrar nada.",module,Codazon_ThemeLayoutPro
+"Map Ratio","Relación del mapa",module,Codazon_ThemeLayoutPro
+"[Map Height]/[Map Width]","[Alto]/[Ancho]",module,Codazon_ThemeLayoutPro
+"Marker Title","Título del marcador",module,Codazon_ThemeLayoutPro
+"Marker Address","Dirección del marcador",module,Codazon_ThemeLayoutPro
+"Marker Latitude","Latitud del marcador",module,Codazon_ThemeLayoutPro
+"Marker Longitude","Longitud del marcador",module,Codazon_ThemeLayoutPro
+Zoom,Zoom,module,Codazon_ThemeLayoutPro
+"Additional Markers","Marcadores adicionales",module,Codazon_ThemeLayoutPro
+"Contact Information","Información de contacto",module,Codazon_ThemeLayoutPro
+"Image Settings","Configuración de imágenes",module,Codazon_ThemeLayoutPro
+"Enable Lazyload for product images","Habilitar carga diferida (Lazyload)",module,Codazon_ThemeLayoutPro
+Product,Producto,module,Codazon_ThemeLayoutPro
+"Product Base Image Width","Ancho de imagen base de producto",module,Codazon_ThemeLayoutPro
+"Product Base Image Height","Alto de imagen base de producto",module,Codazon_ThemeLayoutPro
+"Product Base Image Width (Mobile View)","Ancho de imagen base (móvil)",module,Codazon_ThemeLayoutPro
+"Product Base Image Height (Mobile View)","Alto de imagen base (móvil)",module,Codazon_ThemeLayoutPro
+"Product Moreview Image Width","Ancho de miniaturas de producto",module,Codazon_ThemeLayoutPro
+"Product Moreview Image Height","Alto de miniaturas de producto",module,Codazon_ThemeLayoutPro
+"Swatch Width","Ancho de swatch",module,Codazon_ThemeLayoutPro
+"Swatch Height","Alto de swatch",module,Codazon_ThemeLayoutPro
+"Swatch Thumbnail Width","Ancho de miniatura de swatch",module,Codazon_ThemeLayoutPro
+"Swatch Thumbnail Height","Alto de miniatura de swatch",module,Codazon_ThemeLayoutPro
+"Max Ratio of Product Gallery","Relación máxima de la galería",module,Codazon_ThemeLayoutPro
+"Ratio = Height / Width (of gallery stage)","Relación = Alto / Ancho",module,Codazon_ThemeLayoutPro
+"Product Image Width","Ancho de imagen del producto",module,Codazon_ThemeLayoutPro
+"Product Image Height","Alto de imagen del producto",module,Codazon_ThemeLayoutPro
+"Type of hovered image","Tipo de imagen al pasar el mouse",module,Codazon_ThemeLayoutPro
+"E.g.: thumbnail, swatch_image","Ej: thumbnail, swatch_image",module,Codazon_ThemeLayoutPro
+"Base Image Width","Ancho de imagen base",module,Codazon_ThemeLayoutPro
+"Base Image Height","Alto de imagen base",module,Codazon_ThemeLayoutPro
+"Thumbnail Image Width","Ancho de imagen miniatura",module,Codazon_ThemeLayoutPro
+"Thumbnail Image Height","Alto de imagen miniatura",module,Codazon_ThemeLayoutPro
+"Display Floating ""Shop By"" Button","Mostrar botón flotante ""Filtrar""",module,Codazon_ThemeLayoutPro
+"Display floating ""Shop By"" button in category page or search page.","Muestra el botón flotante de filtros en categorías o búsquedas.",module,Codazon_ThemeLayoutPro
+"Display Search Box under Header","Mostrar buscador debajo del encabezado",module,Codazon_ThemeLayoutPro
+"Show search box fully instead of showing only search icon (to open search box).","Muestra el buscador completo en lugar de solo el icono.",module,Codazon_ThemeLayoutPro
+"Display Bottom Toolbar","Mostrar barra de herramientas inferior",module,Codazon_ThemeLayoutPro
+"Display Button Label","Mostrar etiqueta del botón",module,Codazon_ThemeLayoutPro
+"Use Custom Bottom Toolbar","Usar barra inferior personalizada",module,Codazon_ThemeLayoutPro
+"If set ""No"", the default toolbar will be displayed. If set ""Yes"", you can customize the toolbar with the field ""Custom Bottom Toolbar"" below.","Si marcás ""No"", se usará la predeterminada. Si marcás ""Sí"", podés personalizarla abajo.",module,Codazon_ThemeLayoutPro
+"Disable Tabs Style for Mobile Menu","Desactivar estilo de pestañas en menú móvil",module,Codazon_ThemeLayoutPro
+"Custom Bottom Toolbar","Barra inferior personalizada",module,Codazon_ThemeLayoutPro
+"Checkout Page","Página de compra (Checkout)",module,Codazon_ThemeLayoutPro
+"Display Header and Footer in Checkout Page","Mostrar encabezado y pie de página en Checkout",module,Codazon_ThemeLayoutPro
+"Use <span style=""color:#eb5202"">1column</span> layout instead of <span style=""color:#eb5202"">checkout</span> layout (Magento default layout for checkout page).","Usar diseño de <span style=""color:#eb5202"">1 columna</span> en lugar del predeterminado de Magento.",module,Codazon_ThemeLayoutPro
+"Display Social Login Buttons","Mostrar botones de inicio de sesión social",module,Codazon_ThemeLayoutPro
+"Social Network","Redes sociales",module,Codazon_ThemeLayoutPro
+Instagram,Instagram,module,Codazon_ThemeLayoutPro
+"Json of your Instagram posts","JSON de tus posts de Instagram",module,Codazon_ThemeLayoutPro
+"Codazon Flexible Block","Bloque flexible de Codazon",module,Codazon_ThemeLayoutPro
+"Get Flexible Block from Page Builder","Obtener bloque flexible de Page Builder",module,Codazon_ThemeLayoutPro
+"Go to menu Codazon > Flexible Theme > Main Content to see main content list.","Andá a Codazon > Flexible Theme > Main Content para ver la lista.",module,Codazon_ThemeLayoutPro
+"Enable full width page","Habilitar página de ancho completo",module,Codazon_ThemeLayoutPro
+"If set yes, you can use full width page (left and right margins are only added by using container element of page builder).","Si marcás Sí, podés usar el ancho completo de la pantalla.",module,Codazon_ThemeLayoutPro
+"Codazon Instagram Recent Photos","Fotos recientes de Instagram Codazon",module,Codazon_ThemeLayoutPro
+"Get Photos List From Your Instagram.","Obtener lista de fotos de Instagram.",module,Codazon_ThemeLayoutPro
+"Access Token","Token de acceso",module,Codazon_ThemeLayoutPro
+"<a target=""_blank"" href='https://www.youtube.com/watch?v=jbiXmm5GrqM'>How to get Instagram access token</a>. If you don't want to use access token, you can <span style=""color:red""><br />go to menu <strong>Codazon > Flexible Theme > Settings</strong>. Select your using theme and click button <strong>Config</strong>. From the settings panel, go to section <strong>Social Network > Instagram</strong> to configure instgram data.</span>","<a target=""_blank"" href=""#"" target=""_blank"">Cómo obtener el token</a>. Si no querés usarlo, configurá los datos en Codazon > Flexible Theme > Settings > Social Network.",module,Codazon_ThemeLayoutPro
+"Leave blank to use default template.","Dejá en blanco para usar la plantilla predeterminada.",module,Codazon_ThemeLayoutPro
+"Show As Slider","Mostrar como slider",module,Codazon_ThemeLayoutPro
+"Total Rows","Filas totales",module,Codazon_ThemeLayoutPro
+"Used for some templates, not for all.","Usado para algunas plantillas solamente.",module,Codazon_ThemeLayoutPro
+"Max Items","Ítems máx.",module,Codazon_ThemeLayoutPro
+"Slide Margin","Margen de diapositiva",module,Codazon_ThemeLayoutPro
+"Stage Padding","Relleno del escenario (Padding)",module,Codazon_ThemeLayoutPro
+"Window width ≥ 1900. Default: 6.","Ancho ≥ 1900. Predeterminado: 6.",module,Codazon_ThemeLayoutPro
+"1600 ≤ Window width < 1900. Default: 5.","1600 ≤ Ancho < 1900. Predeterminado: 5.",module,Codazon_ThemeLayoutPro
+"1420 ≤ Window width < 1600. Default: 5.","1420 ≤ Ancho < 1600. Predeterminado: 5.",module,Codazon_ThemeLayoutPro
+"1280 ≤  Window width < 1420. Default: 5.","1280 ≤ Ancho < 1420. Predeterminado: 5.",module,Codazon_ThemeLayoutPro
+"Desktop Small View","Vista escritorio chico",module,Codazon_ThemeLayoutPro
+"980 ≤  Window width < 1280. Default: 3.","980 ≤ Ancho < 1280. Predeterminado: 3.",module,Codazon_ThemeLayoutPro
+"Tablet Lanscape View","Vista tablet horizontal",module,Codazon_ThemeLayoutPro
+"768 ≤ Window width < 980. Default: 3.","768 ≤ Ancho < 980. Predeterminado: 3.",module,Codazon_ThemeLayoutPro
+"Tablet Portrait View","Vista tablet vertical",module,Codazon_ThemeLayoutPro
+"480 ≤ Window width < 768. Default: 3.","480 ≤ Ancho < 768. Predeterminado: 3.",module,Codazon_ThemeLayoutPro
+"Mobile Lanscape View","Vista móvil horizontal",module,Codazon_ThemeLayoutPro
+"320 ≤ Window width < 480. Default: 2.","320 ≤ Ancho < 480. Predeterminado: 2.",module,Codazon_ThemeLayoutPro
+"Mobile Portrait View","Vista móvil vertical",module,Codazon_ThemeLayoutPro
+"Window width < 320. Default: 2.","Ancho < 320. Predeterminado: 2.",module,Codazon_ThemeLayoutPro
+"Codazon Facebook Feeds","Feeds de Facebook Codazon",module,Codazon_ThemeLayoutPro
+"Get Facebook Feeds Iframe","Obtener iframe de feeds de Facebook",module,Codazon_ThemeLayoutPro
+"Page URL","URL de la página",module,Codazon_ThemeLayoutPro
+"Your Facebook page url. Ex: https://www.facebook.com/facebook","La URL de tu página de Facebook.",module,Codazon_ThemeLayoutPro
+"Hide Cover","Ocultar portada",module,Codazon_ThemeLayoutPro
+"Show Facepile","Mostrar fotos de perfil (Facepile)",module,Codazon_ThemeLayoutPro
+"Codazon Twitterfeed Feeds","Feeds de Twitter Codazon",module,Codazon_ThemeLayoutPro
+"Get Twitterfeed Recent Tweets","Obtener tweets recientes",module,Codazon_ThemeLayoutPro
+"User name","Nombre de usuario",module,Codazon_ThemeLayoutPro
+"Your Twitter user name. Ex: twitter","Tu usuario de Twitter (sin el @).",module,Codazon_ThemeLayoutPro
+"Tweets count","Cantidad de tweets",module,Codazon_ThemeLayoutPro
+"Default is ""widget/twitterfeeds.phtml"". Leave empty to use default.","Predeterminado: ""widget/twitterfeeds.phtml"".",module,Codazon_ThemeLayoutPro
+"Default is ""D m, Y""","Predeterminado: ""D m, Y""",module,Codazon_ThemeLayoutPro
+"Magefan Blog Posts List","Lista de posts de Magefan Blog",module,Codazon_ThemeLayoutPro
+"List of Blog Posts","Lista de posts del blog",module,Codazon_ThemeLayoutPro
+Categories,Categorías,module,Codazon_ThemeLayoutPro
+"Order by","Ordenar por",module,Codazon_ThemeLayoutPro
+ID,ID,module,Codazon_ThemeLayoutPro
+"Publish Time","Fecha de publicación",module,Codazon_ThemeLayoutPro
+Order,Orden,module,Codazon_ThemeLayoutPro
+ASC,ASC,module,Codazon_ThemeLayoutPro
+DESC,DESC,module,Codazon_ThemeLayoutPro
+"Post Count","Cantidad de posts",module,Codazon_ThemeLayoutPro
+"Show in Frontend","Mostrar en la tienda",module,Codazon_ThemeLayoutPro
+"Description Length","Largo de descripción",module,Codazon_ThemeLayoutPro
+"Thumbnail Height","Alto de miniatura",module,Codazon_ThemeLayoutPro
+"Post Grid Template","Plantilla de grilla de posts",module,Codazon_ThemeLayoutPro
+"Custom template","Plantilla personalizada",module,Codazon_ThemeLayoutPro
+"Total rows","Filas totales",module,Codazon_ThemeLayoutPro
+"Only used for some template.","Solo usado para algunas plantillas.",module,Codazon_ThemeLayoutPro
+"Total columns","Columnas totales",module,Codazon_ThemeLayoutPro
+"480 ≤ Window width < 768. Default: 2.","480 ≤ Ancho < 768. Predeterminado: 2.",module,Codazon_ThemeLayoutPro
+"Codazon Advanced Search Box","Buscador avanzado Codazon",module,Codazon_ThemeLayoutPro
+"Display advanced search box with defined attributes","Muestra un buscador avanzado con atributos definidos",module,Codazon_ThemeLayoutPro
+"Title icon class","Clase de icono del título",module,Codazon_ThemeLayoutPro
+"Displayed attribute codes","Códigos de atributos mostrados",module,Codazon_ThemeLayoutPro
+"Separate attribute codes by comma (,). E.g.: <strong>size,color,manufacturer</strong>. Please make sure that the codes you use need to be set ""Yes"" for ""Visible in Advanced Search"" field (Go to menu Stores > Attributes > Product). Leave empty to get all usable attributes with default sort order.","Separá códigos por coma. Asegurate de que estén marcados como ""Visibles en búsqueda avanzada"" en Atributos de producto.",module,Codazon_ThemeLayoutPro
+"Enable multi-select box","Habilitar cuadro de selección múltiple",module,Codazon_ThemeLayoutPro
+"Form Wrap HTML class","Clase HTML del contenedor del formulario",module,Codazon_ThemeLayoutPro
+"Default: <strong>avsb-style-01</strong>.","Predeterminado: <strong>avsb-style-01</strong>.",module,Codazon_ThemeLayoutPro
+"Fieldset HTML class","Clase HTML del fieldset",module,Codazon_ThemeLayoutPro
+"Item HTML class","Clase HTML del ítem",module,Codazon_ThemeLayoutPro
+"Submit Button Label","Etiqueta del botón de envío",module,Codazon_ThemeLayoutPro
+"Display View more link","Mostrar link ""Ver más""",module,Codazon_ThemeLayoutPro
+"Show all options of attribute","Mostrar todas las opciones del atributo",module,Codazon_ThemeLayoutPro
+"Codazon Countdown Timer","Temporizador Codazon",module,Codazon_ThemeLayoutPro
+"Display coundown timer with custom values","Muestra un temporizador con valores personalizados",module,Codazon_ThemeLayoutPro
+"Start Date","Fecha de inicio",module,Codazon_ThemeLayoutPro
+"Format: <strong>mm/dd/yyyy hh:mm:ss tt</strong> Default: <strong>06/22/2014 1:52:16 PM</strong>.","Formato: <strong>mm/dd/aaaa hh:mm:ss</strong>.",module,Codazon_ThemeLayoutPro
+"End Date","Fecha de fin",module,Codazon_ThemeLayoutPro
+"Day label","Etiqueta de 'Día'",module,Codazon_ThemeLayoutPro
+"Leave empty to use default.","Dejá vacío para el valor por defecto.",module,Codazon_ThemeLayoutPro
+"Hour label","Etiqueta de 'Hora'",module,Codazon_ThemeLayoutPro
+"Minute label","Etiqueta de 'Minuto'",module,Codazon_ThemeLayoutPro
+"Second label","Etiqueta de 'Segundo'",module,Codazon_ThemeLayoutPro
+"Expired Message","Mensaje de expiración",module,Codazon_ThemeLayoutPro
+"The message is displayed when the deal has expired. Leave empty to not show it.","Texto que se ve cuando la oferta termina. Dejá vacío para no mostrar nada.",module,Codazon_ThemeLayoutPro
+"Auto hide the timer","Ocultar automáticamente el timer",module,Codazon_ThemeLayoutPro
+"Auto hide the timer when the deal has expired.","Oculta el reloj cuando la oferta termina.",module,Codazon_ThemeLayoutPro
+"HTML selector (class/id) of parent block","Selector HTML (clase/id) del bloque padre",module,Codazon_ThemeLayoutPro
+"If you choose to hide the timer when the deal has expired. You can also hide the block containing the timer by adding the HTML class (e.g.: <strong>.js-deal-container</strong>) or HTML id (e.g.: <strong>#my-deal-block</strong>) to this field.","Podés ocultar todo el contenedor del reloj ingresando su clase (ej: .js-contenedor-oferta).",module,Codazon_ThemeLayoutPro
+"Details URL","URL de detalles",module,Codazon_ThemeLayoutPro
+"Not required. You can use relative URL (E.g.: <strong>[base_url]jewellery/necklaces.html</strong>) or absolute URL (E.g.: <strong>https://mywebsite.com/jewellery/necklaces.html</strong>).","No es obligatorio. Podés usar URLs relativas o absolutas.",module,Codazon_ThemeLayoutPro
+"Default Config","Configuración predeterminada",module,Codazon_ThemeLayoutPro
+"Category Thumbnail","Miniatura de categoría",module,Codazon_ThemeLayoutPro
+"Enable to Display Subcategories list","Habilitar lista de subcategorías",module,Codazon_ThemeLayoutPro
+"Exclude From Subcategories list of Parent","Excluir de la lista de subcategorías del padre",module,Codazon_ThemeLayoutPro
+"Custom Product Image Width","Ancho personalizado de imagen de producto",module,Codazon_ThemeLayoutPro
+"Custom Product Image Height","Alto personalizado de imagen de producto",module,Codazon_ThemeLayoutPro
+"General Information","Información general",module,Codazon_ThemeLayoutPro
+Identifier,Identificador,module,Codazon_ThemeLayoutPro
+"This field value is also the folder name of design project. Please consider carefully before modifying this field. The initial configuration for this design can be changed.","Este valor es también el nombre de la carpeta del proyecto. Tené cuidado al modificarlo.",module,Codazon_ThemeLayoutPro
+"Design Group","Grupo de diseño",module,Codazon_ThemeLayoutPro
+"Add New Design","Agregar nuevo diseño",module,Codazon_ThemeLayoutPro
+"Delete items","Eliminar productos",module,Codazon_ThemeLayoutPro
+"Are you sure you wan't to delete selected items?","¿Estás seguro de que querés eliminar los productos seleccionados?",module,Codazon_ThemeLayoutPro
+Group,Grupo,module,Codazon_ThemeLayoutPro
+"Footer Title","Título del pie de página",module,Codazon_ThemeLayoutPro
+"Footer Identifier","Identificador del pie de página",module,Codazon_ThemeLayoutPro
+"This field value is also the folder name of project package. Please consider carefully before modifying this field. The footer style might be broken.","Este valor es el nombre de la carpeta del paquete. Cuidado al cambiarlo: el estilo puede romperse.",module,Codazon_ThemeLayoutPro
+"Extends CSS from","Extiende CSS de",module,Codazon_ThemeLayoutPro
+"A footer could not extended css from itself. E.g., ""Footer Style 01"" could not extend css from ""Footer Style 01"". Please consider carefully before modifying this field. The footer style might be broken.","Un pie de página no puede extenderse de sí mismo. Cuidado al cambiar este campo.",module,Codazon_ThemeLayoutPro
+Enable,Habilitar,module,Codazon_ThemeLayoutPro
+"Layout Structure","Estructura del diseño",module,Codazon_ThemeLayoutPro
+"Layout XML Update","Actualización XML del diseño",module,Codazon_ThemeLayoutPro
+"Add New Footer","Agregar nuevo pie de página",module,Codazon_ThemeLayoutPro
+Disable,Deshabilitar,module,Codazon_ThemeLayoutPro
+"Extends css from","Extiende CSS de",module,Codazon_ThemeLayoutPro
+Status,Estado,module,Codazon_ThemeLayoutPro
+"Header Identifier","Identificador del encabezado",module,Codazon_ThemeLayoutPro
+"This field value is also the folder name of project package. Please consider carefully before modifying this field. The header style might be broken.","Este valor es el nombre de la carpeta del paquete. Cuidado al cambiarlo.",module,Codazon_ThemeLayoutPro
+"Header Title","Título del encabezado",module,Codazon_ThemeLayoutPro
+"A header could not extended itself. E.g., ""Header Style 01"" could not extend css from ""Header Style 01"". Please consider carefully before modifying this field. The header style might be broken.","Un encabezado no puede extenderse de sí mismo. Cuidado al cambiar este campo.",module,Codazon_ThemeLayoutPro
+"Add New Header","Agregar nuevo encabezado",module,Codazon_ThemeLayoutPro
+"Main Content Title","Título del contenido principal",module,Codazon_ThemeLayoutPro
+"MainContent Identifier","Identificador del contenido principal",module,Codazon_ThemeLayoutPro
+"This field value is also the folder name of project package. Please consider carefully before modifying this field. The content style might be broken.","Este valor es el nombre de la carpeta del paquete. Cuidado al cambiarlo.",module,Codazon_ThemeLayoutPro
+"A main content could not extended itself. E.g., ""Main Content 01"" could not extend css from ""Main Content 01"". Please consider carefully before modifying this field. The main content style might be broken.","Un contenido principal no puede extenderse de sí mismo. Cuidado al cambiar este campo.",module,Codazon_ThemeLayoutPro
+"Product View Style","Estilo de vista de producto",module,Codazon_ThemeLayoutPro
+"Product Listing Style","Estilo del listado de productos",module,Codazon_ThemeLayoutPro
+"The product listing style for category page, search page, brand page...","El estilo del listado para categorías, búsquedas, páginas de marca...",module,Codazon_ThemeLayoutPro
+"Main Content Builder","Constructor de contenido principal",module,Codazon_ThemeLayoutPro
+"Add New MainContent","Agregar nuevo contenido principal",module,Codazon_ThemeLayoutPro
+from,desde,module,Codazon_ThemeLayoutPro
+From,Desde,module,Codazon_ThemeLayoutPro
+to,hasta,module,Codazon_ThemeLayoutPro
+To,Hasta,module,Codazon_ThemeLayoutPro
+Select...,Seleccioná...,module,Codazon_ThemeLayoutPro
+20,20,module,Codazon_ThemeLayoutPro
+30,30,module,Codazon_ThemeLayoutPro
+50,50,module,Codazon_ThemeLayoutPro
+100,100,module,Codazon_ThemeLayoutPro
+200,200,module,Codazon_ThemeLayoutPro
+General,General,module,Flurrybox_Core
+Flurrybox,Flurrybox,module,Flurrybox_Core
+Components,Componentes,module,Flurrybox_Core
+"Installed Flurrybox Components","Componentes Flurrybox instalados",module,Flurrybox_Core
+"Magento 2 module to make your store GDPR compatible","Módulo de Magento 2 para compatibilidad con GDPR",module,Flurrybox_EnhancedPrivacy
+"Deletion Reasons","Motivos de eliminación",module,Flurrybox_EnhancedPrivacy
+"Privacy (GDPR)","Privacidad (GDPR)",module,Flurrybox_EnhancedPrivacy
+General,General,module,Flurrybox_EnhancedPrivacy
+Enable,Habilitar,module,Flurrybox_EnhancedPrivacy
+"Privacy policy page","Página de política de privacidad",module,Flurrybox_EnhancedPrivacy
+"This page should store information about privacy and GDPR policy.","Esta página debe contener la información de privacidad y GDPR.",module,Flurrybox_EnhancedPrivacy
+"Brief information","Información breve",module,Flurrybox_EnhancedPrivacy
+"Brief information about your private policy. This text will be displayed in the settings of the user account.","Resumen de tu política de privacidad. Se verá en los ajustes de la cuenta.",module,Flurrybox_EnhancedPrivacy
+"Account Deletion And Anonymization","Eliminación y anonimización de cuenta",module,Flurrybox_EnhancedPrivacy
+"Allow user deletion","Permitir eliminación por el usuario",module,Flurrybox_EnhancedPrivacy
+"Deletion strategy","Estrategia de eliminación",module,Flurrybox_EnhancedPrivacy
+"Account deletion time (minutes)","Tiempo para eliminar la cuenta (minutos)",module,Flurrybox_EnhancedPrivacy
+"Deletion section title","Título de la sección de eliminación",module,Flurrybox_EnhancedPrivacy
+"Deletion button text","Texto del botón de eliminación",module,Flurrybox_EnhancedPrivacy
+"Success message","Mensaje de éxito",module,Flurrybox_EnhancedPrivacy
+"This message will be shown when a customer deletes their account.","Mensaje que se ve cuando un cliente elimina su cuenta.",module,Flurrybox_EnhancedPrivacy
+"Deletion information","Información sobre la eliminación",module,Flurrybox_EnhancedPrivacy
+"Information about account deletion. This text will be displayed in the settings of the user account.","Información sobre cómo borrar la cuenta. Se verá en los ajustes.",module,Flurrybox_EnhancedPrivacy
+"Delete reason description","Descripción del motivo de eliminación",module,Flurrybox_EnhancedPrivacy
+"Description for deletion reason filed. This text will be displayed in the account delete page under reason field.","Texto que se ve debajo del campo ""Motivo"" en la página de baja.",module,Flurrybox_EnhancedPrivacy
+"Enable anonymization message","Habilitar mensaje de anonimización",module,Flurrybox_EnhancedPrivacy
+"This message will be show in the settings of the user account, only if the user has made at least one order.","Este mensaje se ve solo si el usuario ya realizó algún pedido.",module,Flurrybox_EnhancedPrivacy
+"Anonymization message","Mensaje de anonimización",module,Flurrybox_EnhancedPrivacy
+"Customer Data Export","Exportación de datos del cliente",module,Flurrybox_EnhancedPrivacy
+"Allow user export","Permitir exportación por el usuario",module,Flurrybox_EnhancedPrivacy
+"Export section title","Título de la sección de exportación",module,Flurrybox_EnhancedPrivacy
+"Export button text","Texto del botón de exportación",module,Flurrybox_EnhancedPrivacy
+"Export information","Información sobre la exportación",module,Flurrybox_EnhancedPrivacy
+"Information about data export. This text will be displayed in the settings of the user account.","Información sobre cómo exportar datos. Se verá en los ajustes.",module,Flurrybox_EnhancedPrivacy
+"Cookie Policy Popup","Ventana emergente de política de cookies",module,Flurrybox_EnhancedPrivacy
+"Enable popup notification","Habilitar aviso emergente",module,Flurrybox_EnhancedPrivacy
+"This notification will be displayed at the top of the page until the user agrees to privacy policy.","El aviso se verá arriba hasta que el usuario acepte la política.",module,Flurrybox_EnhancedPrivacy
+"Popup content","Contenido del aviso",module,Flurrybox_EnhancedPrivacy
+"This will be displayed in the popup notification.","Este texto se verá en el aviso emergente.",module,Flurrybox_EnhancedPrivacy
+Delete,Eliminar,module,Flurrybox_EnhancedPrivacy
+"Delete Reasons","Motivos de eliminación",module,Flurrybox_EnhancedPrivacy
+"Are you sure you wan't to delete selected items?","¿Estás seguro de que querés eliminar los productos seleccionados?",module,Flurrybox_EnhancedPrivacy
+ID,ID,module,Flurrybox_EnhancedPrivacy
+"Deleted/Anonymized At","Eliminado/Anonimizado el",module,Flurrybox_EnhancedPrivacy
+"Delete account","Eliminar cuenta",module,Flurrybox_EnhancedPrivacy
+"Privacy settings","Ajustes de privacidad",module,Flurrybox_EnhancedPrivacy
+SearchSuite,Buscador avanzado (SearchSuite),module,MageWorx_SearchSuiteAutocomplete
+"Autocomplete Configuration","Configuración del autocompletado",module,MageWorx_SearchSuiteAutocomplete
+"Search Delay","Retraso de la búsqueda",module,MageWorx_SearchSuiteAutocomplete
+"Show Fields In Popup","Mostrar campos en el desplegable",module,MageWorx_SearchSuiteAutocomplete
+"Number of Results Suggested Search","Cantidad de sugerencias de búsqueda",module,MageWorx_SearchSuiteAutocomplete
+"Number of Results Product Search","Cantidad de productos encontrados",module,MageWorx_SearchSuiteAutocomplete
+"Product Search Result Fields","Campos de resultado de búsqueda de productos",module,MageWorx_SearchSuiteAutocomplete
+Blog,Blog,module,Magefan_Blog
+General,General,module,Magefan_Blog
+"Enable Extension","Habilitar extensión",module,Magefan_Blog
+"Product Key","Clave de producto",module,Magefan_Blog
+"Meta Title","Meta Título",module,Magefan_Blog
+"Display Mode","Modo de visualización",module,Magefan_Blog
+"Posts Sort By","Ordenar posts por",module,Magefan_Blog
+Template,Plantilla,module,Magefan_Blog
+"Posts Per Page","Posts por página",module,Magefan_Blog
+"Post IDs","IDs de post",module,Magefan_Blog
+"Please indicate post IDs (separated by comma) you want to display.","Ingresá los IDs (separados por coma) que querés mostrar.",module,Magefan_Blog
+"Meta Keywords","Meta Palabras Clave",module,Magefan_Blog
+"Meta Description","Meta Descripción",module,Magefan_Blog
+"Post Page (Post View)","Página del post (Vista individual)",module,Magefan_Blog
+Design,Diseño,module,Magefan_Blog
+"Display Related Posts","Mostrar posts relacionados",module,Magefan_Blog
+"Number of Posts","Cantidad de posts",module,Magefan_Blog
+"Display Related Products","Mostrar productos relacionados",module,Magefan_Blog
+"Number of Products","Cantidad de productos",module,Magefan_Blog
+Comments,Comentarios,module,Magefan_Blog
+"Number of Comments","Cantidad de comentarios",module,Magefan_Blog
+"Number of Replies","Cantidad de respuestas",module,Magefan_Blog
+"Facebook Application ID","ID de Aplicación de Facebook",module,Magefan_Blog
+"<a href=""https://developers.facebook.com/docs/apps/register/"" target=""_blank""> How do I get a Facebook Application ID? </a>","<a href=""#"" target=""_blank""> ¿Cómo obtengo un ID de aplicación de Facebook? </a>",module,Magefan_Blog
+"Insert Facebook Application ID (fb:app_id) In HEAD Tag","Insertar Facebook App ID en la etiqueta HEAD",module,Magefan_Blog
+"Your Disqus Forum Shortname","Nombre corto (shortname) de tu foro Disqus",module,Magefan_Blog
+"<a href=""https://help.disqus.com/customer/portal/articles/466208"" target=""_blank""> What's a shortname? </a>","<a href=""#"" target=""_blank""> ¿Qué es un nombre corto (shortname)? </a>",module,Magefan_Blog
+"Allow Guest Comments","Permitir comentarios de invitados",module,Magefan_Blog
+"New Comment Status","Estado de nuevos comentarios",module,Magefan_Blog
+"Display Privacy Policy Agreement (GDPR)","Mostrar acuerdo de privacidad (GDPR)",module,Magefan_Blog
+"Previous and Next Post","Post anterior y siguiente",module,Magefan_Blog
+"Display Prev. & Next Post Links","Mostrar links de post anterior y siguiente",module,Magefan_Blog
+"Views Count","Contador de vistas",module,Magefan_Blog
+"Calculate & Display Views Counts","Calcular y mostrar cantidad de vistas",module,Magefan_Blog
+"Post List","Lista de posts",module,Magefan_Blog
+"Default Short Content Length","Largo predeterminado del resumen",module,Magefan_Blog
+"Use Lazy Loading","Usar carga diferida (Lazyload)",module,Magefan_Blog
+"Automatically load more posts on page.","Cargar más posts automáticamente al bajar en la página.",module,Magefan_Blog
+"Auto Triger Padding (px)","Margen de disparo automático (px)",module,Magefan_Blog
+"The distance in pixels from the bottom of the scrollable content at which to trigger the loading of the next set of posts.","Distancia en píxeles desde el fondo para cargar los siguientes posts.",module,Magefan_Blog
+"Short Content End Сharacters","Caracteres de cierre del resumen",module,Magefan_Blog
+"E.g.: ""...""","Ej: ""...""",module,Magefan_Blog
+"Display Author Information","Mostrar información del autor",module,Magefan_Blog
+"Display Post List By Author","Mostrar lista de posts por autor",module,Magefan_Blog
+"If set to ""Yes"". author page with post list will be available.","Si marcás ""Sí"", se habilitará la página del autor con sus posts.",module,Magefan_Blog
+"Post List Template","Plantilla de la lista de posts",module,Magefan_Blog
+"Default Robots","Robots predeterminados",module,Magefan_Blog
+"This will be included before head closing tag in page HTML.","Se incluirá antes del cierre de la etiqueta head en el HTML.",module,Magefan_Blog
+Sidebar,Barra lateral,module,Magefan_Blog
+"Search Form Widget","Widget de formulario de búsqueda",module,Magefan_Blog
+"Sort Order","Orden de prioridad",module,Magefan_Blog
+"Categories Widget","Widget de categorías",module,Magefan_Blog
+"Display Number Of Posts","Mostrar cantidad de posts",module,Magefan_Blog
+"Maximal Depth","Profundidad máxima",module,Magefan_Blog
+"Recent Posts Widget","Widget de posts recientes",module,Magefan_Blog
+"Display Post Image","Mostrar imagen del post",module,Magefan_Blog
+"Posts Number","Número de posts",module,Magefan_Blog
+"Featured Post Widget","Widget de post destacado",module,Magefan_Blog
+"Please indicate post IDs (separated by comma) you want to display. <strong>To use grid with posts filter please double click on input field</strong>.","Ingresá los IDs (separados por coma). <strong>Hacé doble clic en el campo para usar filtros</strong>.",module,Magefan_Blog
+"Popular Posts Widget","Widget de posts populares",module,Magefan_Blog
+"Archive Widget","Widget de archivo",module,Magefan_Blog
+"Tag Cloud Widget","Widget de nube de etiquetas",module,Magefan_Blog
+"Enable 3D Animation","Habilitar animación 3D",module,Magefan_Blog
+Color,Color,module,Magefan_Blog
+"Cloud Height","Altura de la nube",module,Magefan_Blog
+"Number of Tags","Cantidad de etiquetas",module,Magefan_Blog
+"Custom HTML","HTML personalizado",module,Magefan_Blog
+HTML,HTML,module,Magefan_Blog
+"Custom HTML 2","HTML personalizado 2",module,Magefan_Blog
+"Rss Feed","Feed RSS",module,Magefan_Blog
+"Feed Title","Título del feed",module,Magefan_Blog
+"Feed Description","Descripción del feed",module,Magefan_Blog
+"Product Page","Página de producto",module,Magefan_Blog
+"Permalink Settings","Ajustes de enlaces permanentes",module,Magefan_Blog
+"Blog Route","Ruta del blog",module,Magefan_Blog
+"E.g.: ""blog"" will make the blog accessible from mystore.com/blog","Ej: ""blog"" hará que el blog se vea en mitienda.com/blog.",module,Magefan_Blog
+"Auto-redirect to No-Slash URL","Redirección automática a URL sin barra final",module,Magefan_Blog
+"Permalink Type","Tipo de enlace permanente",module,Magefan_Blog
+"Post Route","Ruta de los posts",module,Magefan_Blog
+"E.g.: ""post"" will make the blog post accessible from mystore.com/{blog_route}/post/post-identifier","Ej: ""post"" hará que el post se vea en mitienda.com/blog/post/id.",module,Magefan_Blog
+"Post URL Suffix","Sufijo de URL del post",module,Magefan_Blog
+"E.g.: "".html"" will make the blog post accessible from mystore.com/{blog_route}/post/post-identifier.html","Ej: "".html"" hará que el post termine en .html.",module,Magefan_Blog
+"Use Categories Path for Post URLs","Usar ruta de categorías en URLs de posts",module,Magefan_Blog
+"Category Route","Ruta de categorías",module,Magefan_Blog
+"E.g.: ""category"" will make the blog category accessible from mystore.com/{blog_route}/category/category-identifier","Ej: ""category"" para acceder vía mitienda.com/blog/category/id.",module,Magefan_Blog
+"Category URL Suffix","Sufijo de URL de categorías",module,Magefan_Blog
+"E.g.: "".html"" will make the blog category accessible from mystore.com/{blog_route}/category/category-identifier.html","Ej: "".html"" hará que la categoría termine en .html.",module,Magefan_Blog
+"Use Parent Category Path for Category URLs","Usar ruta de categoría padre en URLs de categorías",module,Magefan_Blog
+"Archive Route","Ruta de archivos",module,Magefan_Blog
+"E.g.: ""archive"" will make the blog archive accessible from mystore.com/{blog_route}/archive/2016-02","Ej: ""archive"" para mitienda.com/blog/archive/2016-02.",module,Magefan_Blog
+"Tag Route","Ruta de etiquetas",module,Magefan_Blog
+"E.g.: ""tag"" will make the blog posts by tag accessible from mystore.com/{blog_route}/tag/tag-name","Ej: ""tag"" para mitienda.com/blog/tag/nombre.",module,Magefan_Blog
+"Tag URL Suffix","Sufijo de URL de etiquetas",module,Magefan_Blog
+"E.g.: "".html"" will make the blog tag accessible from mystore.com/{blog_route}/tag/tag-name.html","Ej: "".html"" para que la etiqueta termine en .html.",module,Magefan_Blog
+"Author Route","Ruta de autor",module,Magefan_Blog
+"E.g.: ""author"" will make the blog author posts accessible from mystore.com/{blog_route}/author/author-name","Ej: ""author"" para mitienda.com/blog/author/nombre.",module,Magefan_Blog
+"Author URL Suffix","Sufijo de URL de autor",module,Magefan_Blog
+"E.g.: "".html"" will make the blog author accessible from mystore.com/{blog_route}/author/author-name.html","Ej: "".html"" para que el autor termine en .html.",module,Magefan_Blog
+"Search Route","Ruta de búsqueda",module,Magefan_Blog
+"E.g.: ""search"" will make the blog search accessible from mystore.com/{blog_route}/search/query","Ej: ""search"" para mitienda.com/blog/search/consulta.",module,Magefan_Blog
+"Search Engine Optimization","Optimización para motores de búsqueda (SEO)",module,Magefan_Blog
+"Use Canonical Link Meta Tag For","Usar etiqueta meta Canonical para",module,Magefan_Blog
+Social,Social,module,Magefan_Blog
+"AddThis Enabled","Habilitar AddThis",module,Magefan_Blog
+"AddThis ID","ID de AddThis",module,Magefan_Blog
+"AddThis Language","Idioma de AddThis",module,Magefan_Blog
+"Category Top Navigation","Navegación superior de categorías",module,Magefan_Blog
+"Display Blog Link","Mostrar link al Blog",module,Magefan_Blog
+"Link Text","Texto del link",module,Magefan_Blog
+"Include Blog Categories","Incluir categorías del Blog",module,Magefan_Blog
+Developer,Desarrollador,module,Magefan_Blog
+"CSS Settings","Ajustes de CSS",module,Magefan_Blog
+"Include Blog CSS On All Pages","Incluir CSS del Blog en todas las páginas",module,Magefan_Blog
+"Include Blog CSS On Home Page","Incluir CSS del Blog en la página de inicio",module,Magefan_Blog
+"Include Blog CSS On Page Page","Incluir CSS del Blog en la página individual",module,Magefan_Blog
+"Magefan Blog Extension - Recent Blog Posts","Magefan Blog - Posts recientes",module,Magefan_Blog
+"Please specify title you want to display on the frontend. You can leave it blank if necessary.","Indicá el título para la tienda. Podés dejarlo vacío.",module,Magefan_Blog
+"Don't repeat posts","No repetir posts",module,Magefan_Blog
+"Set it to YES if you display multiple recent post widgets on the same page and don't want them do display the same posts.","Marcá Sí si tenés varios widgets y no querés que repitan contenido.",module,Magefan_Blog
+"Please indicate number of recent posts you want to display. Leave blank to use predefined ""Posts Per Page"" value.","Indicá cuántos posts mostrar. Dejá vacío para usar el valor por defecto.",module,Magefan_Blog
+"Posts Category","Categoría de los posts",module,Magefan_Blog
+"Leave blank to display posts from all categories.","Dejá vacío para mostrar todas las categorías.",module,Magefan_Blog
+"Posts Tag","Etiqueta de los posts",module,Magefan_Blog
+"Leave blank to display posts from all tags.","Dejá vacío para mostrar todas las etiquetas.",module,Magefan_Blog
+"Posts Author","Autor de los posts",module,Magefan_Blog
+"Leave blank to display posts from all authors.","Dejá vacío para mostrar todos los autores.",module,Magefan_Blog
+"Posts Publish Date From","Publicados desde",module,Magefan_Blog
+"Leave blank or use date format YYYY-MM-DD.","Dejá vacío o usá el formato AAAA-MM-DD.",module,Magefan_Blog
+"Posts Publish Date To","Publicados hasta",module,Magefan_Blog
+"Custom Template","Plantilla personalizada",module,Magefan_Blog
+" Leave blank to use default template Magefan_Blog::widget/recent.phtml. <br/> Magefan_Blog::widget/recent_masonry.phtml template is also available out of the box. <br/> If you use Blog Extra, you can also apply these ones:  <pre> Magefan_BlogExtra::post/list/block-0-1-full.phtml ... </pre> ","Dejá vacío para la plantilla por defecto. Si usás Blog Extra, podés aplicar las plantillas avanzadas listadas arriba.",module,Magefan_Blog
+" Enter user ID. "," Ingresá el ID de usuario. ",module,Magefan_Blog
+"Include In Sidebar Tree","Incluir en el árbol lateral",module,Magefan_Blog
+" <strong>Notice:</strong> <em>Please use this section only if you need to enter short content completely different from main content.<br/>Please <a href=""#"" target=""_blank"" title=""Add &quot;read more&quot; tag to Magento 2 blog post content"">read more</a> about how to configure ""read more"" tag.</em> ","<strong>Aviso:</strong> Usá esto solo si el resumen es distinto al contenido principal. <a href=""#"" target=""_blank"">Leé más</a> sobre la etiqueta ""leer más"".",module,Magefan_Blog
+"Post Image","Imagen del post",module,Magefan_Blog
+"Reading time (In minutes)","Tiempo de lectura (en minutos)",module,Magefan_Blog
+"Rich Snippet / Structured Data","Fragmentos enriquecidos / Datos estructurados",module,Magefan_Blog
+"Blog Posting","Publicación de blog",module,Magefan_Blog
+"News Article","Artículo de noticias",module,Magefan_Blog
+Article,Artículo,module,Magefan_Blog
+Magenest,Magenest,module,Magenest_GiftRegistry
+"Gift Registry Configuration","Configuración de lista de regalos",module,Magenest_GiftRegistry
+"Enables or disables extension.","Habilita o deshabilita la extensión.",module,Magenest_GiftRegistry
+"Hide empty event type","Ocultar tipos de evento vacíos",module,Magenest_GiftRegistry
+"Choose the email address that the emails will be sent from.","Elegí la dirección de email desde la cual se enviarán los correos.",module,Magenest_GiftRegistry
+"Gift Sharing Email Template","Plantilla de email para compartir lista",module,Magenest_GiftRegistry
+"Gift Order Notification Email Template","Plantilla de aviso de regalo pedido",module,Magenest_GiftRegistry
+"Gift Order Confirmation Email Template","Plantilla de confirmación de regalo pedido",module,Magenest_GiftRegistry
+"Thank You Email Template","Plantilla de email de agradecimiento",module,Magenest_GiftRegistry
+"Background Image for Gift Registry Search Page","Imagen de fondo para búsqueda de listas",module,Magenest_GiftRegistry
+"Item Quantity display as","Mostrar cantidad de productos como",module,Magenest_GiftRegistry
+"<ul><li>Drop-down: guest can select a value equal or lower desired qty</li> <li>Text box: guest can input any qty</li></ul>","<ul><li>Desplegable: el invitado elige hasta la cantidad deseada</li> <li>Cuadro de texto: el invitado ingresa cualquier cantidad</li></ul>",module,Magenest_GiftRegistry
+"Google Maps","Google Maps",module,Magenest_GiftRegistry
+"Latitud por defecto","Latitud por defecto",module,Magenest_GiftRegistry
+"Ej: -25.2969 (usa punto decimal)","Ej: -25.2969 (usá punto decimal)",module,Magenest_GiftRegistry
+"Longitud por defecto","Longitud por defecto",module,Magenest_GiftRegistry
+"Ej: -57.6681 (usa punto decimal)","Ej: -57.6681 (usá punto decimal)",module,Magenest_GiftRegistry
+"Key con Maps JavaScript API / Places / Geocoding habilitadas","Llave con Maps JavaScript API / Places / Geocoding activas",module,Magenest_GiftRegistry
+"Delete Registry","Eliminar lista de regalos",module,Magenest_GiftRegistry
+"Registry Type","Tipo de lista",module,Magenest_GiftRegistry
+"Delete Event Type","Eliminar tipo de evento",module,Magenest_GiftRegistry
+"Event Title","Título del evento",module,Magenest_GiftRegistry
+Magmodules,Magmodules,module,Magmodules_AlternateHreflang
+"Alternate Hreflang","Hreflang alternativo",module,Magmodules_AlternateHreflang
+Branding,Branding,module,Magmodules_AlternateHreflang
+Support,Soporte,module,Magmodules_AlternateHreflang
+"Targeting Settings","Ajustes de segmentación",module,Magmodules_AlternateHreflang
+"Enable Homepage HrefLang Tag","Habilitar etiqueta HrefLang en inicio",module,Magmodules_AlternateHreflang
+"Enable Product HrefLang Tag","Habilitar etiqueta HrefLang en productos",module,Magmodules_AlternateHreflang
+"Enable Category HrefLang Tag","Habilitar etiqueta HrefLang en categorías",module,Magmodules_AlternateHreflang
+"Enable CMS HrefLang Tag","Habilitar etiqueta HrefLang en páginas CMS",module,Magmodules_AlternateHreflang
+"Activate HrefLang Tag on Canonical URL Only","Activar HrefLang solo en URL Canónica",module,Magmodules_AlternateHreflang
+"Enable Debug","Habilitar depuración (Debug)",module,Magmodules_AlternateHreflang
+"Alternate Language Settings","Ajustes de idioma alternativo",module,Magmodules_AlternateHreflang
+"Alternate Language Category","Categoría de idioma alternativo",module,Magmodules_AlternateHreflang
+"Alternate Category","Categoría alternativa",module,Magmodules_AlternateHreflang
+"Nissei Store","Nissei Store",module,NisseiStore_Abba
+Abba,Abba,module,NisseiStore_Abba
+"Pedidos Abba","Pedidos Abba",module,NisseiStore_Abba
+Activo,Activo,module,NisseiStore_Abba
+"Nomenclatura de los productos","Nomenclatura de los productos",module,NisseiStore_Abba
+"Nro. operación venta","Nro. operación venta",module,NisseiStore_Abba
+"Configuraciones de SANDBOX","Configuraciones de SANDBOX (Pruebas)",module,NisseiStore_Abba
+Codigo/Usuario,Código/Usuario,module,NisseiStore_Abba
+"Configuraciones de PRODUCCION","Configuraciones de PRODUCCIÓN",module,NisseiStore_Abba
+AEX,AEX,module,NisseiStore_Aex
+"Final Box Size (Comma Separated)","Tamaño final de caja (separado por comas)",module,NisseiStore_Aex
+"Enable Bumer","Habilitar Bumer",module,NisseiStore_Aex
+"Bumer - Ignore cities (Comma Separated)","Bumer - Ignorar ciudades (separadas por coma)",module,NisseiStore_Aex
+"Habilitar Freeshipping para Bumer","Habilitar envío gratis para Bumer",module,NisseiStore_Aex
+"Additional days to express","Días adicionales para express",module,NisseiStore_Aex
+"Replace city for eLocker (Comma Separated)","Reemplazar ciudad para eLocker (separado por coma)",module,NisseiStore_Aex
+"Ignore cities (Comma Separated)","Ignorar ciudades (separadas por coma)",module,NisseiStore_Aex
+"Price 0 Cities (Comma Separated)","Ciudades con precio 0 (separadas por coma)",module,NisseiStore_Aex
+"Price 0 Methods (Comma Separated)","Métodos con precio 0 (separados por coma)",module,NisseiStore_Aex
+"Drops que se retira de Nissei (Comma Separated)","Drops que se retiran de Nissei (separados por coma)",module,NisseiStore_Aex
+"Drops bloqueados para AEX (Comma Separated)","Drops bloqueados para AEX (separados por coma)",module,NisseiStore_Aex
+"Ciudades donde se ignora Drops bloqueados para AEX (Comma Separated)","Ciudades donde se ignoran Drops bloqueados para AEX",module,NisseiStore_Aex
+Agiliza,Agiliza,module,NisseiStore_Agiliza
+"JSON de ciudades","JSON de ciudades",module,NisseiStore_Agiliza
+"Habilitar pagos (Separar por comas - VACIO PARA HABILITAR TODOS)","Habilitar pagos (vacío para habilitar todos)",module,NisseiStore_Agiliza
+"Dirección del remitente","Dirección del remitente",module,NisseiStore_Agiliza
+"URL API","URL de la API",module,NisseiStore_Agiliza
+Token,Token,module,NisseiStore_Agiliza
+"Nissei Store","Nissei Store",module,NisseiStore_Autocomplete
+"Autocomplete RUC","Autocompletado de RUC",module,NisseiStore_Autocomplete
+"Autocomplete checkout","Autocompletado en el checkout",module,NisseiStore_Autocomplete
+Activo,Activo,module,NisseiStore_Autocomplete
+Token,Token,module,NisseiStore_Autocomplete
+Delay,Retraso (Delay),module,NisseiStore_Autocomplete
+"Nissei Store","Nissei Store",module,NisseiStore_Bi
+BI,BI (Business Intelligence),module,NisseiStore_Bi
+"Elockers reserva","Reserva de eLockers",module,NisseiStore_Bi
+Activo,Activo,module,NisseiStore_Bi
+"Url reserva elocker","URL de reserva de eLocker",module,NisseiStore_Bi
+"Liberar puerta eLocker","Liberar puerta de eLocker",module,NisseiStore_Bi
+"Url para liberar puerta","URL para liberar puerta",module,NisseiStore_Bi
+Dropshipping,Dropshipping,module,NisseiStore_Bi
+"Url para proceso dropshipping","URL para proceso de dropshipping",module,NisseiStore_Bi
+"Cancel Bank Payment","Cancelar pago bancario",module,NisseiStore_CancelBankPayment
+"Tiempo de espera para Cancelar pago bancario","Tiempo de espera para cancelar pago bancario",module,NisseiStore_CancelBankPayment
+"City and Region Manager","Gestor de ciudades y provincias",module,NisseiStore_CityRegionCustomer
+"ZipCode NisseiStore Optional","Código postal opcional en NisseiStore",module,NisseiStore_CityRegionCustomer
+"View State","Ver provincia",module,NisseiStore_CityRegionCustomer
+"City details","Detalles de la ciudad",module,NisseiStore_CityRegionCustomer
+"Select State:","Seleccioná provincia:",module,NisseiStore_CityRegionCustomer
+"City name:","Nombre de la ciudad:",module,NisseiStore_CityRegionCustomer
+"State name","Nombre de la provincia",module,NisseiStore_CityRegionCustomer
+"City name","Nombre de la ciudad",module,NisseiStore_CityRegionCustomer
+"State detail","Detalle de la provincia",module,NisseiStore_CityRegionCustomer
+"Select Country:","Seleccioná país:",module,NisseiStore_CityRegionCustomer
+"State name:","Nombre de la provincia:",module,NisseiStore_CityRegionCustomer
+"Export States List","Exportar lista de provincias",module,NisseiStore_CityRegionCustomer
+"Country Name","Nombre del país",module,NisseiStore_CityRegionCustomer
+"State Name","Nombre de la provincia",module,NisseiStore_CityRegionCustomer
+"Zip Code Details","Detalles del código postal",module,NisseiStore_CityRegionCustomer
+"Select City:","Seleccioná ciudad:",module,NisseiStore_CityRegionCustomer
+"Zip code:","Código postal:",module,NisseiStore_CityRegionCustomer
+"Import Zip Code List","Importar lista de códigos postales",module,NisseiStore_CityRegionCustomer
+"Zip code","Código postal",module,NisseiStore_CityRegionCustomer
+"Hide Add to Cart Configuration","Configuración de ocultar 'Agregar al carrito'",module,NisseiStore_HideAddToCart
+"Categories to Hide","Categorías a ocultar",module,NisseiStore_HideAddToCart
+"Hide Only for Logged Users","Ocultar solo para usuarios logueados",module,NisseiStore_HideAddToCart
+MOBI,MOBI,module,NisseiStore_Mobi
+"URL API","URL de la API",module,NisseiStore_Mobi
+"Tiempo de espera en minutos para cancelar","Tiempo para cancelar (minutos)",module,NisseiStore_Mobi
+"Habilitar pagos (Separar por comas - VACIO PARA HABILITAR TODOS)","Habilitar pagos (vacío para todos)",module,NisseiStore_Mobi
+"Ignorar ciudades (Separar por comas)","Ignorar ciudades (separadas por coma)",module,NisseiStore_Mobi
+"JSON de ciudades","JSON de ciudades",module,NisseiStore_Mobi
+"Nombre para el remitente","Nombre del remitente",module,NisseiStore_Mobi
+"Nro. Celular para el remitente","Número de celular del remitente",module,NisseiStore_Mobi
+"Dirección para el remitente","Dirección del remitente",module,NisseiStore_Mobi
+"Dirección de correo para notificar inconvenientes","Email para notificar inconvenientes",module,NisseiStore_Mobi
+"Configuraciones de SANDBOX","Configuraciones de SANDBOX (Pruebas)",module,NisseiStore_Mobi
+"Configuraciones de PRODUCCION","Configuraciones de PRODUCCIÓN",module,NisseiStore_Mobi
+"Nissei Locker","eLocker de Nissei",module,NisseiStore_NisseiLocker
+"User Id","ID de usuario",module,NisseiStore_NisseiLocker
+"Ciudades donde funciona el elocker (Separar por comas)","Ciudades habilitadas para eLocker",module,NisseiStore_NisseiLocker
+"JSON de relación Ciudades/eLockers","JSON de relación Ciudades/eLockers",module,NisseiStore_NisseiLocker
+"JSON de datos del eLocker","JSON de datos del eLocker",module,NisseiStore_NisseiLocker
+"Pago QR","Pago con QR",module,NisseiStore_PagoQr
+"Sandbox API URL","URL de API de Sandbox",module,NisseiStore_PagoQr
+"Sandbox API Secret","Secreto de API de Sandbox",module,NisseiStore_PagoQr
+"Live API URL","URL de API de Producción",module,NisseiStore_PagoQr
+"Live API Key","Llave de API de Producción",module,NisseiStore_PagoQr
+"Live API Secret","Secreto de API de Producción",module,NisseiStore_PagoQr
+"Tiempo de espera para cancelar QR","Tiempo de espera para cancelar QR",module,NisseiStore_PagoQr
+PAQUERY,PAQUERY,module,NisseiStore_Paquery
+"API User Name","Usuario de la API",module,NisseiStore_Paquery
+"API User Pass","Contraseña de la API",module,NisseiStore_Paquery
+"Available cities (Comma Separated)","Ciudades disponibles (separadas por coma)",module,NisseiStore_Paquery
+"Available shipping methods (Comma Separated)","Métodos de envío disponibles (separados por coma)",module,NisseiStore_Paquery
+Pronet,Pronet,module,NisseiStore_Pronet
+"Tiempo de espera para ingresar el Pago en Minutos","Tiempo para ingresar el pago (minutos)",module,NisseiStore_Pronet
+"Tiempo Anulacion en Minutos","Tiempo de anulación (minutos)",module,NisseiStore_Pronet
+"Punto a Punto","Punto a Punto",module,NisseiStore_PuntoPunto
+"URL API","URL de la API",module,NisseiStore_PuntoPunto
+"Tenant Id","ID de inquilino (Tenant ID)",module,NisseiStore_PuntoPunto
+RYSA,RYSA,module,NisseiStore_Rysa
+"JSON de ciudades","JSON de ciudades",module,NisseiStore_Rysa
+"Habilitar pagos (Separar por comas - VACIO PARA HABILITAR TODOS)","Habilitar pagos (vacío para todos)",module,NisseiStore_Rysa
+"Nombre para el remitente","Nombre del remitente",module,NisseiStore_Rysa
+"Nro. Celular para el remitente","Número de celular del remitente",module,NisseiStore_Rysa
+"RUC del remitente","RUC del remitente",module,NisseiStore_Rysa
+"Configuraciones de servicio","Configuraciones de servicio",module,NisseiStore_Rysa
+"URL API","URL de la API",module,NisseiStore_Rysa
+Correo,Email,module,NisseiStore_Rysa
+Contraseña,Contraseña,module,NisseiStore_Rysa
+"Nissei Store","Nissei Store",module,NisseiStore_Treble
+Treble,Treble,module,NisseiStore_Treble
+"API KEY","API KEY",module,NisseiStore_Treble
+"Poll Id","ID de encuesta (Poll ID)",module,NisseiStore_Treble
+"Código país","Código de país",module,NisseiStore_Treble
+"Pedido nuevo","Pedido nuevo",module,NisseiStore_Treble
+Activo,Activo,module,NisseiStore_Treble
+"Pedido pagado","Pedido pagado",module,NisseiStore_Treble
+Variável,Variable,module,NisseiStore_Treble
+"Pedido enviado","Pedido enviado",module,NisseiStore_Treble
+"Pedido cancelado","Pedido cancelado",module,NisseiStore_Treble
+"Drops que se retira de Nissei (Comma Separated)","Drops que se retiran de Nissei (separados por coma)",module,NisseiStore_Uniexpress
+"Drops exclusivos para RYSA (Comma Separated)","Drops exclusivos para RYSA (separados por coma)",module,NisseiStore_Uniexpress
+Voucherpay,Voucherpay,module,NisseiStore_Voucherpay
+"URL API","URL de la API",module,NisseiStore_Voucherpay
+"Tiempo de espera en minutos para cancelar","Tiempo para cancelar (minutos)",module,NisseiStore_Voucherpay
+"PIX Default","PIX predeterminado",module,NisseiStore_Voucherpay
+"Solo PIX","Solo PIX",module,NisseiStore_Voucherpay
+"Configuraciones de SANDBOX","Configuraciones de SANDBOX (Pruebas)",module,NisseiStore_Voucherpay
+"Configuraciones de PRODUCCION","Configuraciones de PRODUCCIÓN",module,NisseiStore_Voucherpay
+"Nissei Store","Nissei Store",module,NisseiStore_Yutena
+"La Yuteña","La Yuteña",module,NisseiStore_Yutena
+"Pedidos La Yuteña","Pedidos La Yuteña",module,NisseiStore_Yutena
+Activo,Activo,module,NisseiStore_Yutena
+"Nomenclatura de los productos","Nomenclatura de los productos",module,NisseiStore_Yutena
+"Configuraciones de SANDBOX","Configuraciones de SANDBOX (Pruebas)",module,NisseiStore_Yutena
+"Configuraciones de PRODUCCION","Configuraciones de PRODUCCIÓN",module,NisseiStore_Yutena
+"Google Category ID Number","Número de ID de categoría de Google",module,Standard_GoogleCategory
+"Búsqueda Semántica","Búsqueda semántica",module,Standard_SemanticSearch
+"Configuración General","Configuración general",module,Standard_SemanticSearch
+"Habilitar Búsqueda Semántica (IA)","Habilitar búsqueda semántica (IA)",module,Standard_SemanticSearch
+"Habilitar Indexación","Habilitar indexación",module,Standard_SemanticSearch
+"Boost (Peso de la IA)","Prioridad (Boost) de la IA",module,Standard_SemanticSearch
+"Atributos para la IA","Atributos para la IA",module,Standard_SemanticSearch
+"Model ID (OpenSearch)","ID del modelo (OpenSearch)",module,Standard_SemanticSearch
+"Habilitar Búsqueda por Categoría","Habilitar búsqueda por categoría",module,Standard_SemanticSearch
+"Boost Categoría","Prioridad (Boost) de categoría",module,Standard_SemanticSearch
+"Neural Query K","Neural Query K (Parámetro K)",module,Standard_SemanticSearch
+"Habilitar Debug Log","Habilitar log de depuración",module,Standard_SemanticSearch
+"Configuración Nativa OpenSearch","Configuración nativa de OpenSearch",module,Standard_SemanticSearch
+"Minimum Should Match","Mínimo de coincidencias (Minimum Should Match)",module,Standard_SemanticSearch
+"Index Prefix","Prefijo del índice",module,Standard_SemanticSearch
+"Price as configured","Precio según configuración",theme,frontend/MageBig/martfury_layout01
+"Sign Up","Registrarse",theme,frontend/MageBig/martfury_layout01
+"Full Width Layout","Diseño de ancho completo",theme,frontend/MageBig/martfury_layout01
+"Critical SVG logo loading","Carga de logo SVG crítico",theme,frontend/MageBig/martfury_layout01
+"Use when Critical CSS is enabled. Leave it empty to use default loading animation","Usar cuando el CSS crítico esté activo. Vacío para animación por defecto.",theme,frontend/MageBig/martfury_layout01
+"Menu Layout","Diseño del menú",theme,frontend/MageBig/martfury_layout01
+"Sticky Offset","Desplazamiento del menú fijo (Sticky)",theme,frontend/MageBig/martfury_layout01
+"Start Sticky after 500px","Fijar menú tras 500px de scroll",theme,frontend/MageBig/martfury_layout01
+"Sticky Type","Tipo de menú fijo",theme,frontend/MageBig/martfury_layout01
+"Logo in Navigation Mobile","Logo en la navegación móvil",theme,frontend/MageBig/martfury_layout01
+"JPG,PNG,GIF","JPG, PNG, GIF",theme,frontend/MageBig/martfury_layout01
+"Enable product image hover","Habilitar efecto hover en imagen de producto",theme,frontend/MageBig/martfury_layout01
+"Show Add To Cart Button","Mostrar botón 'Agregar al carrito'",theme,frontend/MageBig/martfury_layout01
+"Show Quickview Button","Mostrar botón de vista rápida",theme,frontend/MageBig/martfury_layout01
+"Show Wishlist Button","Mostrar botón de lista de deseos",theme,frontend/MageBig/martfury_layout01
+"Show Compare Button","Mostrar botón de comparar",theme,frontend/MageBig/martfury_layout01
+"Show Rating Star","Mostrar estrellas de calificación",theme,frontend/MageBig/martfury_layout01
+"Category Layout - One Column - Product per row","Diseño de categoría (1 col): Productos por fila",theme,frontend/MageBig/martfury_layout01
+"Viewport 1600px and up","Pantalla ≥ 1600px",theme,frontend/MageBig/martfury_layout01
+"Viewport 1200px - 1599px","Pantalla 1200px - 1599px",theme,frontend/MageBig/martfury_layout01
+"Viewport 992px - 1199px","Pantalla 992px - 1199px",theme,frontend/MageBig/martfury_layout01
+"Viewport 768px - 991px","Pantalla 768px - 991px",theme,frontend/MageBig/martfury_layout01
+"Viewport 576px - 767px","Pantalla 576px - 767px",theme,frontend/MageBig/martfury_layout01
+"Viewport 0 - 575px","Pantalla 0px - 575px",theme,frontend/MageBig/martfury_layout01
+"Category Layout - Two Columns - Product per row","Diseño de categoría (2 col): Productos por fila",theme,frontend/MageBig/martfury_layout01
+"Category Layout - Three Columns - Product per row","Diseño de categoría (3 col): Productos por fila",theme,frontend/MageBig/martfury_layout01
+"Product Layout","Diseño de producto",theme,frontend/MageBig/martfury_layout01
+"Product Media Width","Ancho de multimedia del producto",theme,frontend/MageBig/martfury_layout01
+"Gallery Thumbnail Style","Estilo de miniatura de galería",theme,frontend/MageBig/martfury_layout01
+"Gallery Autoplay","Reproducción automática de galería",theme,frontend/MageBig/martfury_layout01
+"Gallery Transition Duration","Duración de transición de galería",theme,frontend/MageBig/martfury_layout01
+"Gallery Transition Effect","Efecto de transición de galería",theme,frontend/MageBig/martfury_layout01
+"Gallery Fullscreen","Galería en pantalla completa",theme,frontend/MageBig/martfury_layout01
+"Gallery Caption","Leyenda de la galería",theme,frontend/MageBig/martfury_layout01
+"Show Share Social","Mostrar botones para compartir",theme,frontend/MageBig/martfury_layout01
+"Enable Countdown","Habilitar cuenta regresiva",theme,frontend/MageBig/martfury_layout01
+"Enable Sold Items","Habilitar contador de productos vendidos",theme,frontend/MageBig/martfury_layout01
+"Enable progress bar Sold Items","Habilitar barra de progreso de productos vendidos",theme,frontend/MageBig/martfury_layout01
+"Show categories of product","Mostrar categorías del producto",theme,frontend/MageBig/martfury_layout01
+"Product Tab","Pestaña de producto",theme,frontend/MageBig/martfury_layout01
+"Display product tab as Tab or Accordion","Mostrar pestañas de producto como Pestaña o Acordeón",theme,frontend/MageBig/martfury_layout01
+"Open State","Estado abierto",theme,frontend/MageBig/martfury_layout01
+"Default Open State of Accordion. E.g.: 0,1,2 (0 - Default, 1 - More information, 2 - Review)","Estado abierto por defecto del acordeón. Ej: 0 (Descripción), 1 (Info extra), 2 (Reseñas).",theme,frontend/MageBig/martfury_layout01
+"Description View More","Ver más en descripción",theme,frontend/MageBig/martfury_layout01
+"Enable View More/View Less for product details tab","Habilitar Ver más/Ver menos en detalles del producto",theme,frontend/MageBig/martfury_layout01
+"Description Max Height","Altura máxima de descripción",theme,frontend/MageBig/martfury_layout01
+"E.g.: 250","Ej: 250",theme,frontend/MageBig/martfury_layout01
+"Enable Sticky Add to Cart","Habilitar 'Agregar al carrito' fijo",theme,frontend/MageBig/martfury_layout01
+"Enable Subscribe Form","Habilitar formulario de suscripción",theme,frontend/MageBig/martfury_layout01
+Tilte,Título,theme,frontend/MageBig/martfury_layout01
+"Sub Tilte","Subtítulo",theme,frontend/MageBig/martfury_layout01
+"Cookie Notice Position","Posición del aviso de cookies",theme,frontend/MageBig/martfury_layout01
+"Button Go Top","Botón 'Ir arriba'",theme,frontend/MageBig/martfury_layout01
+"Mobile View","Vista móvil",theme,frontend/MageBig/martfury_layout01
+"Top Menu Button","Botón de menú superior",theme,frontend/MageBig/martfury_layout01
+"Display Button Menu on Top Menu","Mostrar botón de menú en el menú superior",theme,frontend/MageBig/martfury_layout01
+"Bottom Menu","Menú inferior",theme,frontend/MageBig/martfury_layout01
+"Display Bottom Menu","Mostrar menú inferior",theme,frontend/MageBig/martfury_layout01
+"Custom Style LESS/CSS","Estilo personalizado LESS/CSS",theme,frontend/MageBig/martfury_layout01
+"Enable your custom style","Habilitar tu estilo personalizado",theme,frontend/MageBig/martfury_layout01
+"LESS or CSS Code","Código LESS o CSS",theme,frontend/MageBig/martfury_layout01
+"You need to have knowledge of LESS or CSS. Eg: .page-header{background-color: orange;} Warning: If you write the wrong code, the layout will break","Se requiere conocimiento de LESS o CSS. Atención: si el código está mal, el diseño se romperá.",theme,frontend/MageBig/martfury_layout01
+"RTL Support","Soporte RTL (Derecha a izquierda)",theme,frontend/MageBig/martfury_layout01
+"Main Color","Color principal",theme,frontend/MageBig/martfury_layout01
+"Default: #fcb800","Por defecto: #fcb800",theme,frontend/MageBig/martfury_layout01
+"Color 2","Color 2",theme,frontend/MageBig/martfury_layout01
+"Default: #0066cc","Por defecto: #0066cc",theme,frontend/MageBig/martfury_layout01
+"Color 3","Color 3",theme,frontend/MageBig/martfury_layout01
+"Default: #000000","Por defecto: #000000",theme,frontend/MageBig/martfury_layout01
+"Load Google Font","Cargar Google Font",theme,frontend/MageBig/martfury_layout01
+"<span id=""note1"">&nbsp;</span><br><span id=""note1_1"">&nbsp;</span>","<span id=""note1"">&nbsp;</span><br><span id=""note1_1"">&nbsp;</span>",theme,frontend/MageBig/martfury_layout01
+"Character Sets","Juegos de caracteres",theme,frontend/MageBig/martfury_layout01
+"Load Google Font 2","Cargar Google Font 2",theme,frontend/MageBig/martfury_layout01
+"<span id=""note2"">&nbsp;</span><br><span id=""note2_1"">&nbsp;</span>","<span id=""note2"">&nbsp;</span><br><span id=""note2_1"">&nbsp;</span>",theme,frontend/MageBig/martfury_layout01
+"Load Google Font 3","Cargar Google Font 3",theme,frontend/MageBig/martfury_layout01
+"<span id=""note3"">&nbsp;</span><br><span id=""note3_1"">&nbsp;</span>","<span id=""note3"">&nbsp;</span><br><span id=""note3_1"">&nbsp;</span>",theme,frontend/MageBig/martfury_layout01
+"Assign Font","Asignar fuente",theme,frontend/MageBig/martfury_layout01
+"Font Default","Fuente por defecto",theme,frontend/MageBig/martfury_layout01
+"Font Size","Tamaño de fuente",theme,frontend/MageBig/martfury_layout01
+"Font Heading","Fuente de encabezados",theme,frontend/MageBig/martfury_layout01
+"Assign for h1 h2 h3 h4 h5 h6 tags and .h1 .h2 .h3 .h4 .h5 .h6 classes","Aplica a etiquetas y clases h1 hasta h6.",theme,frontend/MageBig/martfury_layout01
+"Font Special","Fuente especial",theme,frontend/MageBig/martfury_layout01
+"Assign for .font-special class","Aplica a la clase .font-special.",theme,frontend/MageBig/martfury_layout01
+"Font Text","Fuente de texto",theme,frontend/MageBig/martfury_layout01
+"Assign for .font-text class","Aplica a la clase .font-text.",theme,frontend/MageBig/martfury_layout01
+Body,Cuerpo (Body),theme,frontend/MageBig/martfury_layout01
+"Default: #f2f2f2","Por defecto: #f2f2f2",theme,frontend/MageBig/martfury_layout01
+"Background Pattern","Patrón de fondo",theme,frontend/MageBig/martfury_layout01
+"Page Background Image","Imagen de fondo de página",theme,frontend/MageBig/martfury_layout01
+"Your background image instead of background pattern","Tu propia imagen en lugar del patrón por defecto.",theme,frontend/MageBig/martfury_layout01
+"Page Background Image Position","Posición de imagen de fondo",theme,frontend/MageBig/martfury_layout01
+"Default: 0 0 no-repeat fixed","Por defecto: 0 0 no-repeat fixed",theme,frontend/MageBig/martfury_layout01
+"Page Background Image Size","Tamaño de imagen de fondo",theme,frontend/MageBig/martfury_layout01
+"Values: contain, cover, auto","Valores: contain, cover, auto",theme,frontend/MageBig/martfury_layout01
+"Link Color","Color de link",theme,frontend/MageBig/martfury_layout01
+"Main Header","Encabezado principal",theme,frontend/MageBig/martfury_layout01
+"Default: #ffffff","Por defecto: #ffffff",theme,frontend/MageBig/martfury_layout01
+"Background Image Position","Posición de imagen de fondo",theme,frontend/MageBig/martfury_layout01
+"Background Image Size","Tamaño de imagen de fondo",theme,frontend/MageBig/martfury_layout01
+"Default: #999999","Por defecto: #999999",theme,frontend/MageBig/martfury_layout01
+"Default: #66666","Por defecto: #666666",theme,frontend/MageBig/martfury_layout01
+"Top Header","Encabezado superior",theme,frontend/MageBig/martfury_layout01
+"Default: transparent","Por defecto: transparente",theme,frontend/MageBig/martfury_layout01
+"Border Bottom Color","Color de borde inferior",theme,frontend/MageBig/martfury_layout01
+"Main Menu","Menú principal",theme,frontend/MageBig/martfury_layout01
+"Link Hover Color","Color de link (hover)",theme,frontend/MageBig/martfury_layout01
+"Welcome to Martfury Online Store !","¡Bienvenido a Martfury Online Store!",theme,frontend/MageBig/martfury_layout01
+"Full Width Layout","Diseño de ancho completo",theme,frontend/MageBig/martfury_layout05
+"Critical SVG logo loading","Carga de logo SVG crítico",theme,frontend/MageBig/martfury_layout05
+"Use when Critical CSS is enabled. Leave it empty to use default loading animation","Usar cuando el CSS crítico esté activo. Vacío para animación por defecto.",theme,frontend/MageBig/martfury_layout05
+"Menu Layout","Diseño del menú",theme,frontend/MageBig/martfury_layout05
+"Sticky Offset","Desplazamiento del menú fijo",theme,frontend/MageBig/martfury_layout05
+"Start Sticky after 500px","Fijar menú tras 500px de scroll",theme,frontend/MageBig/martfury_layout05
+"Sticky Type","Tipo de menú fijo",theme,frontend/MageBig/martfury_layout05
+"Logo in Navigation Mobile","Logo en navegación móvil",theme,frontend/MageBig/martfury_layout05
+"JPG,PNG,GIF","JPG, PNG, GIF",theme,frontend/MageBig/martfury_layout05
+"Enable product image hover","Habilitar efecto hover en imagen de producto",theme,frontend/MageBig/martfury_layout05
+"Show Add To Cart Button","Mostrar botón 'Agregar al carrito'",theme,frontend/MageBig/martfury_layout05
+"Show Quickview Button","Mostrar botón de vista rápida",theme,frontend/MageBig/martfury_layout05
+"Show Wishlist Button","Mostrar botón de lista de deseos",theme,frontend/MageBig/martfury_layout05
+"Show Compare Button","Mostrar botón de comparar",theme,frontend/MageBig/martfury_layout05
+"Show Rating Star","Mostrar estrellas de calificación",theme,frontend/MageBig/martfury_layout05
+"Category Layout - One Column - Product per row","Diseño de categoría (1 col): Productos por fila",theme,frontend/MageBig/martfury_layout05
+"Viewport 1600px and up","Pantalla ≥ 1600px",theme,frontend/MageBig/martfury_layout05
+"Viewport 1200px - 1599px","Pantalla 1200px - 1599px",theme,frontend/MageBig/martfury_layout05
+"Viewport 992px - 1199px","Pantalla 992px - 1199px",theme,frontend/MageBig/martfury_layout05
+"Viewport 768px - 991px","Pantalla 768px - 991px",theme,frontend/MageBig/martfury_layout05
+"Viewport 576px - 767px","Pantalla 576px - 767px",theme,frontend/MageBig/martfury_layout05
+"Viewport 0 - 575px","Pantalla 0px - 575px",theme,frontend/MageBig/martfury_layout05
+"Category Layout - Two Columns - Product per row","Diseño de categoría (2 col): Productos por fila",theme,frontend/MageBig/martfury_layout05
+"Category Layout - Three Columns - Product per row","Diseño de categoría (3 col): Productos por fila",theme,frontend/MageBig/martfury_layout05
+"Product Layout","Diseño de producto",theme,frontend/MageBig/martfury_layout05
+"Product Media Width","Ancho de multimedia del producto",theme,frontend/MageBig/martfury_layout05
+"Gallery Thumbnail Style","Estilo de miniatura de galería",theme,frontend/MageBig/martfury_layout05
+"Gallery Autoplay","Reproducción automática de galería",theme,frontend/MageBig/martfury_layout05
+"Gallery Transition Duration","Duración de transición de galería",theme,frontend/MageBig/martfury_layout05
+"Gallery Transition Effect","Efecto de transición de galería",theme,frontend/MageBig/martfury_layout05
+"Gallery Fullscreen","Galería en pantalla completa",theme,frontend/MageBig/martfury_layout05
+"Gallery Caption","Leyenda de la galería",theme,frontend/MageBig/martfury_layout05
+"Show Share Social","Mostrar botones para compartir",theme,frontend/MageBig/martfury_layout05
+"Enable Countdown","Habilitar cuenta regresiva",theme,frontend/MageBig/martfury_layout05
+"Enable Sold Items","Habilitar contador de productos vendidos",theme,frontend/MageBig/martfury_layout05
+"Enable progress bar Sold Items","Habilitar barra de progreso de productos vendidos",theme,frontend/MageBig/martfury_layout05
+"Show categories of product","Mostrar categorías del producto",theme,frontend/MageBig/martfury_layout05
+"Product Tab","Pestaña de producto",theme,frontend/MageBig/martfury_layout05
+"Display product tab as Tab or Accordion","Mostrar pestañas de producto como Pestaña o Acordeón",theme,frontend/MageBig/martfury_layout05
+"Open State","Estado abierto",theme,frontend/MageBig/martfury_layout05
+"Default Open State of Accordion. E.g.: 0,1,2 (0 - Default, 1 - More information, 2 - Review)","Estado abierto por defecto del acordeón. Ej: 0 (Descripción), 1 (Info extra), 2 (Reseñas).",theme,frontend/MageBig/martfury_layout05
+"Description View More","Ver más en descripción",theme,frontend/MageBig/martfury_layout05
+"Enable View More/View Less for product details tab","Habilitar Ver más/Ver menos en detalles del producto",theme,frontend/MageBig/martfury_layout05
+"Description Max Height","Altura máxima de descripción",theme,frontend/MageBig/martfury_layout05
+"E.g.: 250","Ej: 250",theme,frontend/MageBig/martfury_layout05
+"Enable Sticky Add to Cart","Habilitar 'Agregar al carrito' fijo",theme,frontend/MageBig/martfury_layout05
+"Cookie Notice Position","Posición del aviso de cookies",theme,frontend/MageBig/martfury_layout05
+"Button Go Top","Botón 'Ir arriba'",theme,frontend/MageBig/martfury_layout05
+"Mobile View","Vista móvil",theme,frontend/MageBig/martfury_layout05
+"Top Menu Button","Botón de menú superior",theme,frontend/MageBig/martfury_layout05
+"Display Button Menu on Top Menu","Mostrar botón de menú en el menú superior",theme,frontend/MageBig/martfury_layout05
+"Bottom Menu","Menú inferior",theme,frontend/MageBig/martfury_layout05
+"Display Bottom Menu","Mostrar menú inferior",theme,frontend/MageBig/martfury_layout05
+"Custom Style LESS/CSS","Estilo personalizado LESS/CSS",theme,frontend/MageBig/martfury_layout05
+"Enable your custom style","Habilitar tu estilo personalizado",theme,frontend/MageBig/martfury_layout05
+"LESS or CSS Code","Código LESS o CSS",theme,frontend/MageBig/martfury_layout05
+"You need to have knowledge of LESS or CSS. Eg: .page-header{background-color: orange;} Warning: If you write the wrong code, the layout will break","Se requiere conocimiento de LESS o CSS. Atención: si el código está mal, el diseño se romperá.",theme,frontend/MageBig/martfury_layout05
+"RTL Support","Soporte RTL",theme,frontend/MageBig/martfury_layout05
+"Main Color","Color principal",theme,frontend/MageBig/martfury_layout05
+"Default: #fcb800","Por defecto: #fcb800",theme,frontend/MageBig/martfury_layout05
+"Color 2","Color 2",theme,frontend/MageBig/martfury_layout05
+"Default: #0066cc","Por defecto: #0066cc",theme,frontend/MageBig/martfury_layout05
+"Color 3","Color 3",theme,frontend/MageBig/martfury_layout05
+"Default: #000000","Por defecto: #000000",theme,frontend/MageBig/martfury_layout05
+"Load Google Font","Cargar Google Font",theme,frontend/MageBig/martfury_layout05
+"<span id=""note1"">&nbsp;</span><br><span id=""note1_1"">&nbsp;</span>","<span id=""note1"">&nbsp;</span><br><span id=""note1_1"">&nbsp;</span>",theme,frontend/MageBig/martfury_layout05
+"Character Sets","Juegos de caracteres",theme,frontend/MageBig/martfury_layout05
+"Load Google Font 2","Cargar Google Font 2",theme,frontend/MageBig/martfury_layout05
+"<span id=""note2"">&nbsp;</span><br><span id=""note2_1"">&nbsp;</span>","<span id=""note2"">&nbsp;</span><br><span id=""note2_1"">&nbsp;</span>",theme,frontend/MageBig/martfury_layout05
+"Load Google Font 3","Cargar Google Font 3",theme,frontend/MageBig/martfury_layout05
+"<span id=""note3"">&nbsp;</span><br><span id=""note3_1"">&nbsp;</span>","<span id=""note3"">&nbsp;</span><br><span id=""note3_1"">&nbsp;</span>",theme,frontend/MageBig/martfury_layout05
+"Assign Font","Asignar fuente",theme,frontend/MageBig/martfury_layout05
+"Font Default","Fuente por defecto",theme,frontend/MageBig/martfury_layout05
+"Font Size","Tamaño de fuente",theme,frontend/MageBig/martfury_layout05
+"Font Heading","Fuente de encabezados",theme,frontend/MageBig/martfury_layout05
+"Assign for h1 h2 h3 h4 h5 h6 tags and .h1 .h2 .h3 .h4 .h5 .h6 classes","Aplica a etiquetas y clases h1 hasta h6.",theme,frontend/MageBig/martfury_layout05
+"Font Special","Fuente especial",theme,frontend/MageBig/martfury_layout05
+"Assign for .font-special class","Aplica a la clase .font-special.",theme,frontend/MageBig/martfury_layout05
+"Font Text","Fuente de texto",theme,frontend/MageBig/martfury_layout05
+"Assign for .font-text class","Aplica a la clase .font-text.",theme,frontend/MageBig/martfury_layout05
+Body,Cuerpo (Body),theme,frontend/MageBig/martfury_layout05
+"Default: #ffffff","Por defecto: #ffffff",theme,frontend/MageBig/martfury_layout05
+"Background Pattern","Patrón de fondo",theme,frontend/MageBig/martfury_layout05
+"Page Background Image","Imagen de fondo de página",theme,frontend/MageBig/martfury_layout05
+"Your background image instead of background pattern","Tu propia imagen en lugar del patrón por defecto.",theme,frontend/MageBig/martfury_layout05
+"Page Background Image Position","Posición de imagen de fondo",theme,frontend/MageBig/martfury_layout05
+"Default: 0 0 no-repeat fixed","Por defecto: 0 0 no-repeat fixed",theme,frontend/MageBig/martfury_layout05
+"Page Background Image Size","Tamaño de imagen de fondo",theme,frontend/MageBig/martfury_layout05
+"Values: contain, cover, auto","Valores: contain, cover, auto",theme,frontend/MageBig/martfury_layout05
+"Link Color","Color de link",theme,frontend/MageBig/martfury_layout05
+"Main Header","Encabezado principal",theme,frontend/MageBig/martfury_layout05
+"Background Image Position","Posición de imagen de fondo",theme,frontend/MageBig/martfury_layout05
+"Background Image Size","Tamaño de imagen de fondo",theme,frontend/MageBig/martfury_layout05
+"Default: #999999","Por defecto: #999999",theme,frontend/MageBig/martfury_layout05
+"Default: #66666","Por defecto: #666666",theme,frontend/MageBig/martfury_layout05
+"Top Header","Encabezado superior",theme,frontend/MageBig/martfury_layout05
+"Default: #f1f1f1","Por defecto: #f1f1f1",theme,frontend/MageBig/martfury_layout05
+"Border Bottom Color","Color de borde inferior",theme,frontend/MageBig/martfury_layout05
+"Default: transparent","Por defecto: transparente",theme,frontend/MageBig/martfury_layout05
+"Main Menu","Menú principal",theme,frontend/MageBig/martfury_layout05
+"Link Hover Color","Color de link (hover)",theme,frontend/MageBig/martfury_layout05
+"Default: #333333","Por defecto: #333333",theme,frontend/MageBig/martfury_layout05
+"Welcome to Martfury Online Store !","¡Bienvenido a Martfury Online Store!",theme,frontend/MageBig/martfury_layout05
+"Aheadworks Extensions","Extensiones de Aheadworks",module,Aheadworks_Afptc
+"Add Free Product to Cart","Agregar producto gratis al carrito",module,Aheadworks_Afptc
+"Default Title Of Popup","Título por defecto del popup",module,Aheadworks_Afptc
+"Will be displayed if a customer is eligible for several promo offers at a time","Se muestra si el cliente aplica a varias ofertas simultáneamente.",module,Aheadworks_Afptc
+"Hide options of configurable products","Ocultar opciones de productos configurables",module,Aheadworks_Afptc
+"Promo Product thumbnail","Miniatura del producto de regalo",module,Aheadworks_Afptc
+"Where to Display Promo Popup","Dónde mostrar el popup de regalo",module,Aheadworks_Afptc
+"Validate subtotal","Validar subtotal",module,Aheadworks_Afptc
+"Do not Offer Promos for Products with Special Price","No ofrecer regalos para productos en oferta",module,Aheadworks_Afptc
+"Aheadworks AFPTC","Aheadworks AFPTC (Regalos)",module,Aheadworks_Afptc
+"Select Products","Seleccionar productos",module,Aheadworks_Afptc
+"Visible for admin only. For frontend description see the options in ""Promo"" section","Visible solo para Admin. Para la tienda ver sección ""Promo"".",module,Aheadworks_Afptc
+"Active From","Activa desde",module,Aheadworks_Afptc
+"Active To","Activa hasta",module,Aheadworks_Afptc
+"Customer Segment Condition","Condición por segmento de clientes",module,Aheadworks_Afptc
+"Customer Segments","Segmentos de clientes",module,Aheadworks_Afptc
+"Rule Priority","Prioridad de la regla",module,Aheadworks_Afptc
+"Zero is a top priority","Cero es la prioridad más alta",module,Aheadworks_Afptc
+"Offer Only Those Products Which Are In Stock","Ofrecer solo productos con stock",module,Aheadworks_Afptc
+"Rule Settings","Ajustes de la regla",module,Aheadworks_Afptc
+Scenario,Escenario,module,Aheadworks_Afptc
+"when criteria below are met","cuando se cumplan los criterios de abajo",module,Aheadworks_Afptc
+"Where N equals","Donde N es igual a",module,Aheadworks_Afptc
+"When a user entered this coupon code:","Cuando el usuario ingresa este cupón:",module,Aheadworks_Afptc
+"And criteria below are met:","Y se cumplen estos criterios:",module,Aheadworks_Afptc
+Offer,Ofrecer,module,Aheadworks_Afptc
+"of the products below","de los productos de abajo",module,Aheadworks_Afptc
+"-th product in the cart","-ésimo producto en el carrito",module,Aheadworks_Afptc
+"Popup Settings","Ajustes del popup",module,Aheadworks_Afptc
+"How to offer promo products","Cómo ofrecer los productos de regalo",module,Aheadworks_Afptc
+"Applies to a single promo product of simple type and without options. For other product types and quantities popup will always be displayed","Para productos simples sin opciones. En otros casos el popup siempre se verá.",module,Aheadworks_Afptc
+"Text in the Popup Header","Texto en el encabezado del popup",module,Aheadworks_Afptc
+"Promo Settings","Ajustes de la promo",module,Aheadworks_Afptc
+"Promo Text","Texto de la promo",module,Aheadworks_Afptc
+"The text next to product price","Texto junto al precio del producto",module,Aheadworks_Afptc
+"Large Text On The Promo Label","Texto grande en la etiqueta",module,Aheadworks_Afptc
+"Medium Text On The Promo Label","Texto medio en la etiqueta",module,Aheadworks_Afptc
+"Small Text On The Promo Label","Texto chico en la etiqueta",module,Aheadworks_Afptc
+"Allowed file types: jpg, jpeg, gif, png.","Formatos permitidos: jpg, jpeg, gif, png.",module,Aheadworks_Afptc
+"Image Alt","Texto Alt de la imagen",module,Aheadworks_Afptc
+"Header of promotional popup","Encabezado del popup de promoción",module,Aheadworks_Afptc
+"Description should optimally be between 100-120 characters","La descripción debe tener entre 100 y 120 caracteres.",module,Aheadworks_Afptc
+"Absolute or relative paths are allowed","Se permiten rutas absolutas o relativas",module,Aheadworks_Afptc
+"URL Text","Texto de la URL",module,Aheadworks_Afptc
+"""Find out more"" text","Texto de ""Saber más""",module,Aheadworks_Afptc
+"Promotional Campaigns Performance (Last 30 days)","Rendimiento de campañas (Últimos 30 días)",module,Aheadworks_Afptc
+"Active Promo Campaigns","Campañas activas",module,Aheadworks_Afptc
+"Total Sales","Ventas totales",module,Aheadworks_Afptc
+"{n} of all sales","{n} de todas las ventas",module,Aheadworks_Afptc
+"{n} of all orders","{n} de todos los pedidos",module,Aheadworks_Afptc
+"Average Cart Total","Total promedio del carrito",module,Aheadworks_Afptc
+{n},{n},module,Aheadworks_Afptc
+"Promo Items Per Order","Productos de regalo por pedido",module,Aheadworks_Afptc
+"Delete rules","Eliminar reglas",module,Aheadworks_Afptc
+"Are you sure you want to delete selected rules?","¿Estás seguro de que querés eliminar las reglas seleccionadas?",module,Aheadworks_Afptc
+"Aheadworks Extensions","Extensiones de Aheadworks",module,Aheadworks_Autorelated
+"Automatic Related Products","Productos relacionados automáticos (ARP)",module,Aheadworks_Autorelated
+"Show more than one block in one position","Mostrar más de un bloque en una posición",module,Aheadworks_Autorelated
+"A number of days to build a list of bestsellers","Días para armar la lista de más vendidos",module,Aheadworks_Autorelated
+"Enable ""Who Viewed This Also Viewed"" functionality","Habilitar ""Quienes vieron esto también vieron""",module,Aheadworks_Autorelated
+"Process sessions for the last X days","Procesar sesiones de los últimos X días",module,Aheadworks_Autorelated
+"Empty = no limit. Please note that empty or big value can slow your website","Vacío = sin límite. Ojo: valores altos pueden ralentizar el sitio.",module,Aheadworks_Autorelated
+"Process Registered Customers Only","Procesar solo clientes registrados",module,Aheadworks_Autorelated
+"If switched off, unregistered users are include in statistics, which may take more time","Si se desactiva, incluye invitados en la estadística (tarda más).",module,Aheadworks_Autorelated
+"Aheadworks Related Products Bought Together","Productos comprados juntos (Aheadworks)",module,Aheadworks_Autorelated
+"Purchased products index","Índice de productos comprados",module,Aheadworks_Autorelated
+"Automatic Related Products by Aheadworks","Productos relacionados automáticos (Aheadworks)",module,Aheadworks_Autorelated
+"Contents of a Automatic Related Products","Contenido de productos relacionados automáticos",module,Aheadworks_Autorelated
+"Select Rule...","Seleccionar regla...",module,Aheadworks_Autorelated
+"Enable Rule","Habilitar regla",module,Aheadworks_Autorelated
+"Block position","Posición del bloque",module,Aheadworks_Autorelated
+"* This option is supported also for PWA","* Opción compatible también con PWA",module,Aheadworks_Autorelated
+"Some products might fall under several rules. Priority is here to decide which rule will be executed in such case. Rules with higher priority (e.g. 10 is higher than 20) will be executed first.","La prioridad decide qué regla se ejecuta si un producto aplica a varias.",module,Aheadworks_Autorelated
+Segments,Segmentos,module,Aheadworks_Autorelated
+"Where to Display","Dónde mostrar",module,Aheadworks_Autorelated
+"Choose products the related items will be displayed for. Conditions and condition combinations allow you to narrow selection down to a specific range of products","Elegí los productos en los cuales se verá el bloque de relacionados.",module,Aheadworks_Autorelated
+"What to Display","Qué mostrar",module,Aheadworks_Autorelated
+"Choose products that will be displayed in the ‘related’ block. Block condition(s) and modes let you narrow down the selection to specific products","Elegí qué productos se verán dentro del bloque de relacionados.",module,Aheadworks_Autorelated
+"Display mode","Modo de visualización",module,Aheadworks_Autorelated
+"Don't Show Free Products","No mostrar productos gratuitos",module,Aheadworks_Autorelated
+"Current product price is not taken into account. Only final prices of already sold products are used.","No se toma el precio actual, solo el precio final de lo ya vendido.",module,Aheadworks_Autorelated
+"Suggest Products from One Category Only","Sugerir productos de una sola categoría",module,Aheadworks_Autorelated
+"Suggest Products Only with Price Higher than Price of Current Product","Sugerir solo productos con precio mayor al actual",module,Aheadworks_Autorelated
+"How to Display","Cómo mostrar",module,Aheadworks_Autorelated
+"Loading Type","Tipo de carga",module,Aheadworks_Autorelated
+"Add child products to rule processing","Incluir productos hijos en el procesamiento",module,Aheadworks_Autorelated
+"For configurable products, the rule will also include its child products.","Para productos configurables, la regla incluirá sus variantes.",module,Aheadworks_Autorelated
+"Block title","Título del bloque",module,Aheadworks_Autorelated
+"More store views","Más vistas de tienda",module,Aheadworks_Autorelated
+"Block layout","Diseño del bloque",module,Aheadworks_Autorelated
+"Block Template","Plantilla del bloque",module,Aheadworks_Autorelated
+"Block templates can be added to 'related' folder. e.g. 'Aheadworks/Autorelated/view/frontend/templates/related'","Podés agregar plantillas en la carpeta 'related' del módulo.",module,Aheadworks_Autorelated
+"Number of rows","Cantidad de filas",module,Aheadworks_Autorelated
+"Number of columns would be calculated automatically based on outer block width","Las columnas se calculan solas según el ancho del bloque exterior.",module,Aheadworks_Autorelated
+"Display ""Add To Cart"" button","Mostrar botón ""Agregar al carrito""",module,Aheadworks_Autorelated
+"Max products to display","Cant. máx. de productos a mostrar",module,Aheadworks_Autorelated
+"Sort products by","Ordenar productos por",module,Aheadworks_Autorelated
+Ascending,Ascendente,module,Aheadworks_Autorelated
+Descending,Descendente,module,Aheadworks_Autorelated
+"Select Sorting Direction","Seleccionar sentido del orden",module,Aheadworks_Autorelated
+"Orders Count","Cantidad de pedidos",module,Aheadworks_Autorelated
+"In the ""Who Bought This Also Bought"" display mode products are sorted based on number of times they were purchased together in the same order.","En WBTAB, los productos se ordenan por frecuencia de compra conjunta.",module,Aheadworks_Autorelated
+"In the ""Who Viewed This Also Viewed"" display mode products are sorted based on number of times they were viewed together.","En WVTAV, los productos se ordenan por frecuencia de vista conjunta.",module,Aheadworks_Autorelated
+"Show ""Out of stock"" products","Mostrar productos ""Sin stock""",module,Aheadworks_Autorelated
+"Create New Rule","Crear nueva regla",module,Aheadworks_Autorelated
+"Delete rules","Eliminar reglas",module,Aheadworks_Autorelated
+"Are you sure you want to delete selected rules?","¿Estás seguro de que querés eliminar las reglas seleccionadas?",module,Aheadworks_Autorelated
+"Rule Type","Tipo de regla",module,Aheadworks_Autorelated
+Clicks,Clics,module,Aheadworks_Autorelated
+CTR,"CTR (Tasa de clics)",module,Aheadworks_Autorelated
+"Aheadworks Extensions","Extensiones de Aheadworks",module,Aheadworks_Core
+Module,Módulo,module,Aheadworks_Core
+"Job Name","Nombre de la tarea",module,Aheadworks_Core
+"Cron settings","Ajustes de Cron",module,Aheadworks_Core
+"Scheduled at","Programado el",module,Aheadworks_Core
+"Finished at","Finalizado el",module,Aheadworks_Core
+"Aheadworks Extensions","Extensiones de Aheadworks",module,Aheadworks_EventTickets
+"Event Tickets","Tickets de eventos",module,Aheadworks_EventTickets
+"Create Ticket by Order Status","Crear ticket por estado de pedido",module,Aheadworks_EventTickets
+"Ticket Management Group on Storefront","Grupo de gestión de tickets en la tienda",module,Aheadworks_EventTickets
+"Tickets Require Shipping","Los tickets requieren envío",module,Aheadworks_EventTickets
+"URL to The Events Category","URL a la categoría de eventos",module,Aheadworks_EventTickets
+"Hide Past Events from Catalog","Ocultar eventos pasados del catálogo",module,Aheadworks_EventTickets
+"Events will be hidden when their end date has passed.","Los eventos se ocultarán cuando pase su fecha de finalización.",module,Aheadworks_EventTickets
+"Enable Catalog Price Rule","Habilitar regla de precio de catálogo",module,Aheadworks_EventTickets
+"Email Settings","Ajustes de email",module,Aheadworks_EventTickets
+"Notification Email Sender","Remitente de email de notificación",module,Aheadworks_EventTickets
+"Ticket Email Template","Plantilla de email del ticket",module,Aheadworks_EventTickets
+"Ticket Template Pdf","Plantilla PDF del ticket",module,Aheadworks_EventTickets
+"Ticket Number Pattern","Patrón de número de ticket",module,Aheadworks_EventTickets
+"Number Length","Largo del número",module,Aheadworks_EventTickets
+"Excluding prefix, suffix, and separators. Min length is 8.","Sin contar prefijos ni sufijos. Largo mínimo 8.",module,Aheadworks_EventTickets
+"Number Format","Formato del número",module,Aheadworks_EventTickets
+"Number Prefix","Prefijo del número",module,Aheadworks_EventTickets
+"Number Suffix","Sufijo del número",module,Aheadworks_EventTickets
+"If empty no separation","Si está vacío, no habrá separación",module,Aheadworks_EventTickets
+"Add Event","Agregar evento",module,Aheadworks_EventTickets
+"Total tickets qty","Cantidad total de tickets",module,Aheadworks_EventTickets
+"Used tickets qty","Cantidad de tickets usados",module,Aheadworks_EventTickets
+"Available tickets qty","Cantidad de tickets disponibles",module,Aheadworks_EventTickets
+"Event Date","Fecha del evento",module,Aheadworks_EventTickets
+"Time Slot","Franja horaria",module,Aheadworks_EventTickets
+"Schedule Type","Tipo de horario",module,Aheadworks_EventTickets
+"Tickets Qty","Cant. de tickets",module,Aheadworks_EventTickets
+"Visible in admin panel only.","Visible solo en el panel de administración.",module,Aheadworks_EventTickets
+"Enable Space","Habilitar espacio",module,Aheadworks_EventTickets
+Venue,Sede,module,Aheadworks_EventTickets
+"Storefront Description","Descripción en la tienda",module,Aheadworks_EventTickets
+Sectors,Sectores,module,Aheadworks_EventTickets
+"Add sector","Agregar sector",module,Aheadworks_EventTickets
+"Enable Sector","Habilitar sector",module,Aheadworks_EventTickets
+"Add Space","Agregar espacio",module,Aheadworks_EventTickets
+"Sectors Qty","Cant. de sectores",module,Aheadworks_EventTickets
+"Cancel ticket","Cancelar ticket",module,Aheadworks_EventTickets
+"Are you sure you want to cancel the ticket? Click 'OK' to proceed.","¿Estás seguro de cancelar el ticket? Hacé clic en 'Aceptar'.",module,Aheadworks_EventTickets
+Resend,Reenviar,module,Aheadworks_EventTickets
+"Email Sent","Email enviado",module,Aheadworks_EventTickets
+"Buyer name","Nombre del comprador",module,Aheadworks_EventTickets
+"Buyer email","Email del comprador",module,Aheadworks_EventTickets
+"Download Ticket","Descargar ticket",module,Aheadworks_EventTickets
+"Enable Ticket Type","Habilitar tipo de ticket",module,Aheadworks_EventTickets
+"Add Ticket Type","Agregar tipo de ticket",module,Aheadworks_EventTickets
+"Enable Venue","Habilitar sede",module,Aheadworks_EventTickets
+"Assigned spaces","Espacios asignados",module,Aheadworks_EventTickets
+"Add Venue","Agregar sede",module,Aheadworks_EventTickets
+"Venue Title","Título de la sede",module,Aheadworks_EventTickets
+"Venue Description","Descripción de la sede",module,Aheadworks_EventTickets
+"Venue Address","Dirección de la sede",module,Aheadworks_EventTickets
+"Space Title","Título del espacio",module,Aheadworks_EventTickets
+"Space Description","Descripción del espacio",module,Aheadworks_EventTickets
+"Infinite Scroll","Scroll infinito",module,Amasty_Scroll
+"General settings","Ajustes generales",module,Amasty_Scroll
+"Loading Type","Tipo de carga",module,Amasty_Scroll
+"Number of Automatically Loaded Pages","Cantidad de páginas cargadas automáticamente",module,Amasty_Scroll
+"How many pages to scroll before 'Load More' button appears.","Cuántas páginas bajar antes de ver el botón 'Cargar más'.",module,Amasty_Scroll
+"Please kindly note that only pages which were loaded with Infinite Scroll are considered as automatically loaded. E.g., if the setting is set to '2', the general number of pages visible for customers before 'Load More' button appearance will be '3'","Solo las páginas cargadas con el scroll cuentan como automáticas. Ej: si ponés '2', el botón se verá en la página 3.",module,Amasty_Scroll
+"How many pages to scroll before 'Auto mode' applies.","Cuántas páginas bajar antes de activar el 'Modo automático'.",module,Amasty_Scroll
+"Please kindly note that only pages which were loaded with Infinite Scroll are considered as automatically loaded. E.g., if the setting is set to '2', the general number of pages visible for customers before 'Auto mode' applies will be '3'","Solo las páginas cargadas con el scroll cuentan como automáticas. Ej: si ponés '2', el modo auto iniciará en la página 3.",module,Amasty_Scroll
+"Display Page Numbers","Mostrar números de página",module,Amasty_Scroll
+"Choose Yes to display number of the current page above loaded products in the product listing","Elegí Sí para mostrar el número de página arriba de los productos cargados.",module,Amasty_Scroll
+"Page Numbers Style","Estilo de los números de página",module,Amasty_Scroll
+"Show Product Counter While Scrolling","Mostrar contador de productos al bajar",module,Amasty_Scroll
+"Product Counter Color","Color del contador de productos",module,Amasty_Scroll
+"AJAX Progress Image Path","Ruta de la imagen de progreso AJAX",module,Amasty_Scroll
+"Specify path to loading image within your theme, i.e. images/loader.svg","Ruta a la imagen de carga del tema (ej: images/loader.svg).",module,Amasty_Scroll
+"Load Prev-Next Button (optional)","Botones Anterior/Siguiente (opcional)",module,Amasty_Scroll
+"Label for the Prev Button","Etiqueta del botón 'Anterior'",module,Amasty_Scroll
+"Specify here the text to be displayed on the action button","Escribí acá el texto que tendrá el botón.",module,Amasty_Scroll
+"Label for the Next Button","Etiqueta del botón 'Siguiente'",module,Amasty_Scroll
+"Button Color (Pressed)","Color del botón (Presionado)",module,Amasty_Scroll
+"Back to Top Button (optional)","Botón 'Volver arriba' (opcional)",module,Amasty_Scroll
+"Choose Yes to display info bar with current page number and total pages count","Marcá Sí para ver la barra con la página actual y el total.",module,Amasty_Scroll
+"Button Style for Desktop","Estilo del botón para escritorio",module,Amasty_Scroll
+"Button Style for Mobile","Estilo del botón para móvil",module,Amasty_Scroll
+"Button color","Color del botón",module,Amasty_Scroll
+"DOM Selectors (for custom themes)","Selectores DOM (para temas personalizados)",module,Amasty_Scroll
+"Products Group","Grupo de productos",module,Amasty_Scroll
+"Product Link","Link del producto",module,Amasty_Scroll
+"Abandoned Cart Email","Email de carrito abandonado",module,Amasty_Acart
+"Cart Considered Abandoned After Period (Minutes)","Carrito considerado abandonado tras (minutos)",module,Amasty_Acart
+"Trigger Campaign Only Once per Quote","Lanzar campaña solo una vez por cotización",module,Amasty_Acart
+"Coupon is Available Only for Email Recipient","Cupón disponible solo para el destinatario",module,Amasty_Acart
+"If the option is disabled the coupon can be used by all customers.","Si se desactiva, cualquier cliente puede usar el cupón.",module,Amasty_Acart
+"Specify Number of Days to Clean Notifications History","Días para limpiar el historial de notificaciones",module,Amasty_Acart
+"Disable Guest Data Logging for EU Customers (GDPR Compliance Requirement)","Desactivar registro de invitados para clientes de la UE (GDPR)",module,Amasty_Acart
+"For use this setting you need import GEOIP Data","Para usar esto tenés que importar los datos de GeoIP.",module,Amasty_Acart
+"Enable Auto Login from Email","Habilitar login automático desde el email",module,Amasty_Acart
+"Auto Login Lifetime Period (Days)","Duración del login automático (Días)",module,Amasty_Acart
+"Blacklist Email Addresses","Lista negra de direcciones de email",module,Amasty_Acart
+"Send Campaign Email Copy to","Enviar copia de la campaña a",module,Amasty_Acart
+"Send Campaign Email Copy Method","Método de envío de copia",module,Amasty_Acart
+"Select 'Bcc' if you want to add CHECK OUT url in copy of email.","Elegí 'Bcc' (Cco) si querés incluir la URL de Checkout en la copia.",module,Amasty_Acart
+"Add Customer Contact Details to Email Copy","Agregar contacto del cliente a la copia",module,Amasty_Acart
+"Please note: enabling this setting may impact the module's performance.","Aviso: activar esto puede afectar el rendimiento del módulo.",module,Amasty_Acart
+"Send Emails to Registered Customers Only","Enviar emails solo a clientes registrados",module,Amasty_Acart
+"Send Emails to Newsletter Subscribers Only","Enviar emails solo a suscritos al newsletter",module,Amasty_Acart
+"Remove 'pub' from Image URL","Quitar 'pub' de la URL de la imagen",module,Amasty_Acart
+"If enabled, image url like http://domain.zone/pub/media/wysiwyg/home/home-main.jpg will be replaced by http://domain.zone/media/wysiwyg/home/home-main.jpg.","Si se habilita, quita el segmento /pub/ de las rutas de imágenes.",module,Amasty_Acart
+"Set Number of Abandoned Products in Email","Cantidad de productos abandonados en el email",module,Amasty_Acart
+"Specify the maximum number of products from the abandoned cart that will be displayed in the email. Leave the field empty to display all abandoned cart products.","Máximo de productos a mostrar. Vacío para mostrar todos.",module,Amasty_Acart
+"Set Number of Related/Up-Sell/Cross-Sell Products in Email","Cantidad de productos recomendados en el email",module,Amasty_Acart
+"When enabling the setting, do not forget to update your templates for abandoned cart emails adding the <a href=""%1"">corresponding layout</a> to display Related/Up-Sell/Cross-Sell Products in emails.","Al activar esto, no olvides actualizar tus plantillas con el <a href=""%1"">layout correspondiente</a>.",module,Amasty_Acart
+"Text Message Notifications","Notificaciones por mensaje de texto",module,Amasty_Acart
+"Enable SMS Notifications","Habilitar notificaciones por SMS",module,Amasty_Acart
+"Enable WhatsApp Notifications","Habilitar notificaciones por WhatsApp",module,Amasty_Acart
+Testing,Pruebas,module,Amasty_Acart
+"Safe Mode","Modo seguro",module,Amasty_Acart
+"If enabled, emails will be sent only to the test email (not to customers).","Si se habilita, los correos solo se enviarán al email de prueba.",module,Amasty_Acart
+"Test Email","Email de prueba",module,Amasty_Acart
+"
+                                <ul>
+                                    <li>Automatic: Sort order is taken from Automatic Related Product
+                                    rule that is enabled for this product and has highest priority.</li>
+                                    <li>Manual: Sort order is taken from Related Products, Up-Sell Products,
+                                    and Cross-Sell Products settings below.</li>
+                                </ul>
+                            ","<ul> <li>Automático: El orden de clasificación se toma de la regla de Productos Relacionados Automáticos habilitada para este producto con mayor prioridad.</li> <li>Manual: El orden se toma de los ajustes de Productos Relacionados, Up-Sell y Cross-Sell de abajo.</li> </ul>",module,Aheadworks_Autorelated
+"Specify product id or sku","Especificar ID de producto o SKU",module,Aheadworks_AutorelatedGraphQl
+"Specify product id or sku (not both)","Especificar ID de producto o SKU (no ambos)",module,Aheadworks_AutorelatedGraphQl
+"label (Incompatible with Hyva Theme)","etiqueta (Incompatible con el tema Hyva)",module,Aheadworks_AutorelatedHyva
+"Could not add item to wishlist.","No se pudo agregar el producto a la lista de deseos.",module,Aheadworks_AutorelatedHyva
+"Display slide %1","Mostrar diapositiva %1",module,Aheadworks_AutorelatedHyva
+"Carousel %1","Carrusel %1",module,Aheadworks_AutorelatedHyva
+"Navigating through the elements of the carousel is possible using the tab key. You can skip the carousel or go straight to carousel navigation using the skip links.","Podés navegar por el carrusel con la tecla Tab. Podés saltarlo o ir directo a la navegación usando los links de salto.",module,Aheadworks_AutorelatedHyva
+"Press to skip carousel","Presioná para saltar el carrusel",module,Aheadworks_AutorelatedHyva
+"Press to go to carousel navigation","Presioná para ir a la navegación del carrusel",module,Aheadworks_AutorelatedHyva
+"Item %1","Producto %1",module,Aheadworks_AutorelatedHyva
+"Previous slide","Diapositiva anterior",module,Aheadworks_AutorelatedHyva
+"Next slide","Siguiente diapositiva",module,Aheadworks_AutorelatedHyva
+"The price depends on the options chosen on the product page","El precio depende de las opciones elegidas en la página del producto",module,Aheadworks_AutorelatedHyva
+"Configure %1 on the product page","Configurá %1 en la página del producto",module,Aheadworks_AutorelatedHyva
+"Order Comment: ","Comentario del pedido: ",module,Codazon_SalesPro
+"Seleccione un departamento.","Seleccioná un departamento.",module,Codazon_ShippingCostCalculator
+"Seleccione una ciudad","Seleccioná una ciudad",module,Codazon_ShippingCostCalculator
+"Shipping Cost","Costo de envío",module,Codazon_ShippingCostCalculator
+Calculate,Calcular,module,Codazon_ShippingCostCalculator
+"Admin Guide","Guía del administrador",module,Magefan_AdminUserGuide
+"Admin Guide Configuration","Configuración de la guía del administrador",module,Magefan_AdminUserGuide
+Collapsed,Contraído,module,Magefan_BetterCheckout
+Expanded,Expandido,module,Magefan_BetterCheckout
+"Single textarea","Área de texto única",module,Magefan_BetterCheckout
+"Cart %1 doesn't contain products","El carrito %1 no contiene productos",module,Magefan_BetterCheckout
+"The order comment could not be saved","El comentario del pedido no pudo ser guardado",module,Magefan_BetterCheckout
+"Comment is too long! Allowed length is %1, current length is %2","¡El comentario es muy largo! El máximo es %1, el actual es %2",module,Magefan_BetterCheckout
+"Customer Order Comment","Comentario de pedido del cliente",module,Magefan_BetterCheckout
+"Your Order Comment","Tu comentario del pedido",module,Magefan_BetterCheckout
+"The import process was completed successfully. 
+                        %1 posts, %2 categories, %3 tags, %4 authors and %5 comments where imported.","El proceso de importación se completó con éxito. Se importaron %1 posts, %2 categorías, %3 etiquetas, %4 autores y %5 comentarios.",module,Magefan_Blog
+"The import process completed. %1 posts, %2 categories, %3 tags, %4 authors and %5 comments where imported. 
+                        Some posts or categories or tags or comments where skipped. %5 %6 %7 %8 %9","Importación completada. Algunos elementos fueron omitidos. %5 %6 %7 %8 %9",module,Magefan_Blog
+"Magefan Blog is disabled, to enable the extension please navigate to
+                        <a href=""%1"" target=""_blank"">Stores > Configuration > Magefan Extensions > Blog</a>.","El blog de Magefan está deshabilitado. Activalo en <a href=""%1"" target=""_blank"">Tiendas > Configuración > Extensiones Magefan > Blog</a>.",module,Magefan_Blog
+"Magefan Blog <strong>Product Key</strong> is missing.
+                        Blog Extension will be automatically disabled soon. Please specify the product key in
+                        <a href=""%1"" target=""_blank"">Stores > Configuration > Magefan Extensions > Blog</a>.","Falta la <strong>Product Key</strong> de Magefan Blog. La extensión se desactivará pronto. Ingresala en configuración.",module,Magefan_Blog
+"Your Blog Extension is out of date. You can update it to the <strong>version %1</strong>
+                     via composer or you can download the new version archive from the 
+                     <a href=""%2"" target=""_blank"">Magefan Store</a>.
+                     Please <a href=""%3""   target=""_blank"">contact</a> 
+                     Magefan Team if you have any questions or need help with an update.","Tu extensión de blog está desactualizada. Podés actualizar a la <strong>versión %1</strong> vía composer o descargarla de la tienda.",module,Magefan_Blog
+"False to login!","¡Falla al iniciar sesión!",module,Mageplaza_SocialLogin
+"Module is disabled.","El módulo está deshabilitado.",module,Mageplaza_SocialLogin
+"Close panel","Cerrar panel",module,Mageplaza_SocialLogin
+"""No se pudo generar la guia AEX | "" . . ""Response: "" . . "" Direccion: "" . . "" Paquetes: "" .","""No se pudo generar la guía AEX | "" . . ""Respuesta: "" . . "" Dirección: "" . . "" Paquetes: "" .",module,NisseiStore_Aex
+"Imposible cancelar, el pedido ya fue abonado en Pagopar","Imposible cancelar, el pedido ya fue abonado en Pagopar",module,Standard_Pagopar
+"Consultar Pagopar","Consultar Pagopar",module,Standard_Pagopar
+"REVERSAR Pagopar","REVERSAR Pagopar",module,Standard_Pagopar
+"Razón Social","Razón Social",module,Standard_RazonSocial
+"The  ""%1"" path doesn't exist. Verify and try again.","La ruta ""%1"" no existe. Verificala e intentalo de nuevo.",module,Magento_Config
+"Configurable products allow customers to choose options (Ex: shirt color).
+            You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten elegir opciones. Tenés que crear un producto simple para cada variante (ej. un producto por cada color).",module,Magento_ConfigurableProduct
+"Configured attribute selected option data providers should implement
+                GetAttributeSelectedOptionInterface","Los proveedores de opciones seleccionadas deben implementar GetAttributeSelectedOptionInterface",module,Magento_EavGraphQl
+"Configured attribute selected option data providers should implement
+                    GetAttributeSelectedOptionInterface","Los proveedores de opciones seleccionadas deben implementar GetAttributeSelectedOptionInterface",module,Magento_EavGraphQl
+"%1 indexer(s) have been updated to ""Update by Schedule"" mode. 
+                        %2 skipped because there was nothing to change.","%1 indexador(es) actualizados al modo ""Actualizar por programación"". %2 omitidos.",module,Magento_Indexer
+"%1 indexer(s) have been updated to ""Update on Save"" mode. 
+                        %2 skipped because there was nothing to change.","%1 indexador(es) actualizados al modo ""Actualizar al guardar"". %2 omitidos.",module,Magento_Indexer
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","Solo para tipos Sí/No, Desplegable, Selección múltiple y Precio. <br>Precio es incompatible con <b>'Filtrable (sin resultados)'</b>.",module,Magento_LayeredNavigation
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","La integración con New Relic requiere el agente newrelic-php5. Más info sobre cómo instalarlo <a href=""%1"" target=""_blank"">acá</a>.",module,Magento_NewRelicReporting
+"Follow this link to unsubscribe <a href=""{{var subscriber_data.unsubscription_link}}"">
+                        {{var subscriber_data.unsubscription_link}}</a>","Seguí este link para desuscribirte <a href=""{{var subscriber_data.unsubscription_link}}"">{{var subscriber_data.unsubscription_link}}</a>",module,Magento_Newsletter
+"The address total model should be extended from
+                    \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","El modelo total de dirección debe extender de AbstractTotal.",module,Magento_Quote
+"Please note, for reCAPTCHA to be enabled,
+        the valid ""Google API Website Key"" and ""Google API Secret Key"" fields are required.","Para habilitar reCAPTCHA, se requieren las llaves válidas de ""Google API Website Key"" y ""Google API Secret Key"".",module,Magento_ReCaptchaAdminUi
+"No %1 error found","No se encontró el error %1",module,Mageplaza_Core
+"Clear All Logs","Limpiar todos los logs",module,Mageplaza_Smtp
+"Are you sure you want to clear all email logs?","¿Estás seguro de que querés borrar todos los logs de email?",module,Mageplaza_Smtp
+"Server Name (host)","Nombre del servidor (host)",module,Mageplaza_Smtp
+Port,Puerto,module,Mageplaza_Smtp
+Protocol,Protocolo,module,Mageplaza_Smtp
+"Transport Layer Security (TLS)","Seguridad de la capa de transporte (TLS)",module,Mageplaza_Smtp
+"Secure Sockets Layer (SSL)","Capa de sockets seguros (SSL)",module,Mageplaza_Smtp
+"Gmail, GSuite","Gmail, GSuite",module,Mageplaza_Smtp
+"Amazon SES","Amazon SES",module,Mageplaza_Smtp
+"US East (N. Virginia)","EE.UU. Este (N. Virginia)",module,Mageplaza_Smtp
+"US West (Oregon)","EE.UU. Oeste (Oregon)",module,Mageplaza_Smtp
+"EU (Ireland)","UE (Irlanda)",module,Mageplaza_Smtp
+Mailgun,Mailgun,module,Mageplaza_Smtp
+Migomail,Migomail,module,Mageplaza_Smtp
+Mandrill,Mandrill,module,Mageplaza_Smtp
+Sendinblue,Sendinblue,module,Mageplaza_Smtp
+Sendgrid,Sendgrid,module,Mageplaza_Smtp
+"Elastic Email","Elastic Email",module,Mageplaza_Smtp
+SparkPost,SparkPost,module,Mageplaza_Smtp
+Mailjet,Mailjet,module,Mageplaza_Smtp
+Postmark,Postmark,module,Mageplaza_Smtp
+"AOL Mail","AOL Mail",module,Mageplaza_Smtp
+Comcast,Comcast,module,Mageplaza_Smtp
+GMX,GMX,module,Mageplaza_Smtp
+Hotmail,Hotmail,module,Mageplaza_Smtp
+Mail.com,Mail.com,module,Mageplaza_Smtp
+"O2 Mail","O2 Mail",module,Mageplaza_Smtp
+Office365,Office365,module,Mageplaza_Smtp
+Outlook,Outlook,module,Mageplaza_Smtp
+"Yahoo Mail","Yahoo Mail",module,Mageplaza_Smtp
+"Yahoo Mail Plus","Yahoo Mail Plus",module,Mageplaza_Smtp
+"Yahoo AU/NZ","Yahoo Australia/N. Zelanda",module,Mageplaza_Smtp
+AT&T,AT&T,module,Mageplaza_Smtp
+"NTL @ntlworld.com","NTL @ntlworld.com",module,Mageplaza_Smtp
+"BT Connect","BT Connect",module,Mageplaza_Smtp
+"Zoho Mail","Zoho Mail",module,Mageplaza_Smtp
+Verizon,Verizon,module,Mageplaza_Smtp
+"BT Openworld","BT Openworld",module,Mageplaza_Smtp
+"O2 Online Deutschland","O2 Online Alemania",module,Mageplaza_Smtp
+"1&1 Webmail","1&1 Webmail",module,Mageplaza_Smtp
+OVH,OVH,module,Mageplaza_Smtp
+SMTP2GO,SMTP2GO,module,Mageplaza_Smtp
+"Customer synchronization has been completed.","La sincronización de clientes se completó.",module,Mageplaza_Smtp
+"Order synchronization has been completed.","La sincronización de pedidos se completó.",module,Mageplaza_Smtp
+"Subscriber synchronization has been completed.","La sincronización de suscriptores se completó.",module,Mageplaza_Smtp
+"The recovery succeeded.","La recuperación fue exitosa.",module,Mageplaza_Smtp
+"Marketing Automation is disabled.","La automatización de marketing está deshabilitada.",module,Mageplaza_Smtp
+"The link is not available for your use","El link no está disponible para tu uso",module,Mageplaza_Smtp
+"An error occurred while recovering your cart.","Ocurrió un error al recuperar tu carrito.",module,Mageplaza_Smtp
+"An error occurred while logging in your account. Please try to log in again.","Error al iniciar sesión. Por favor intentalo de nuevo.",module,Mageplaza_Smtp
+"Please login with %1","Por favor iniciá sesión con %1",module,Mageplaza_Smtp
+Mageplaza,Mageplaza,module,Mageplaza_Smtp
+Smtp,SMTP,module,Mageplaza_Smtp
+"Cart recovery email was sent to the customer successfully!","¡El email de recuperación del carrito se envió con éxito!",module,Mageplaza_Smtp
+"Cart recovery email cannot sent to the customer.","No se pudo enviar el email de recuperación al cliente.",module,Mageplaza_Smtp
+"Cart recovery email is not sent to the customer yet.","El email de recuperación aún no se envió al cliente.",module,Mageplaza_Smtp
+"Abandoned Cart #%1","Carrito abandonado #%1",module,Mageplaza_Smtp
+"We can't process your request right now. %1","No podemos procesar tu solicitud ahora. %1",module,Mageplaza_Smtp
+"Email re-sent successfully!","¡Email reenviado con éxito!",module,Mageplaza_Smtp
+"We can't process your request right now.","No podemos procesar tu solicitud en este momento.",module,Mageplaza_Smtp
+"Email Log","Log de emails",module,Mageplaza_Smtp
+"Email Marketing","Email Marketing",module,Mageplaza_Smtp
+"We can't process your request for email log #%1","No podemos procesar la solicitud para el log #%1",module,Mageplaza_Smtp
+"A total of %1 record(s) have been sent.","Se enviaron un total de %1 registro(s).",module,Mageplaza_Smtp
+"App ID or Secret Key is empty","El App ID o Secret Key está vacío",module,Mageplaza_Smtp
+"No customers to synchronize.","No hay clientes para sincronizar.",module,Mageplaza_Smtp
+"No Orders to synchronize.","No hay pedidos para sincronizar.",module,Mageplaza_Smtp
+"No subscriber to synchronize.","No hay suscriptores para sincronizar.",module,Mageplaza_Smtp
+"Sent successfully! Please check your email box.","¡Enviado con éxito! Por favor revisá tu casilla.",module,Mageplaza_Smtp
+"Test Error","Error de prueba",module,Mageplaza_Smtp
+"Email marketing connection is working properly.","La conexión de email marketing funciona correctamente.",module,Mageplaza_Smtp
+"Can't connect to the email marketing app. %1","No se pudo conectar a la app de email marketing. %1",module,Mageplaza_Smtp
+"Error : %1","Error: %1",module,Mageplaza_Smtp
+UNKNOWN,DESCONOCIDO,module,Mageplaza_Smtp
+"%1 not found.","%1 no encontrado.",module,Mageplaza_Smtp
+"A host is necessary for smtp transport, but none was given","Se requiere un host para el transporte SMTP.",module,Mageplaza_Smtp
+CRAM-MD5,CRAM-MD5,module,Mageplaza_Smtp
+Lifetime,Duración,module,Mageplaza_Smtp
+90,90,module,Mageplaza_Smtp
+"1 Year","1 Año",module,Mageplaza_Smtp
+"2 Years","2 Años",module,Mageplaza_Smtp
+"Choose Date Range","Elegir rango de fechas",module,Mageplaza_Smtp
+"Only Subscribed","Solo suscritos",module,Mageplaza_Smtp
+"New Object Only","Solo objetos nuevos",module,Mageplaza_Smtp
+Everything,Todo,module,Mageplaza_Smtp
+"Marketing automation is disabled.","La automatización de marketing está desactivada.",module,Mageplaza_Smtp
+"Invalid app id or secret key.","App ID o Secret Key inválidos.",module,Mageplaza_Smtp
+"From and To fields are required.","Los campos 'Desde' y 'Hasta' son obligatorios.",module,Mageplaza_Smtp
+"Wait for send","Esperando envío",module,Mageplaza_Smtp
+"Resend Email","Reenviar email",module,Mageplaza_Smtp
+"Are you sure you want to resend the email <strong>""%1""</strong>?","¿Estás seguro de que querés reenviar el email <strong>""%1""</strong>?",module,Mageplaza_Smtp
+"Delete Log","Eliminar log",module,Mageplaza_Smtp
+"Are you sure you want to delete this log?","¿Estás seguro de que querés borrar este log?",module,Mageplaza_Smtp
+"Created From","Creado desde",module,Mageplaza_Smtp
+"Load Settings","Cargar ajustes",module,Mageplaza_Smtp
+Syncing...,Sincronizando...,module,Mageplaza_Smtp
+"Syncing Customers...","Sincronizando clientes...",module,Mageplaza_Smtp
+"Syncing Orders...","Sincronizando pedidos...",module,Mageplaza_Smtp
+"Syncing Subscribers...","Sincronizando suscriptores...",module,Mageplaza_Smtp
+"Download log","Descargar log",module,Mageplaza_Smtp
+"Cart Recovery Information","Información de recuperación de carrito",module,Mageplaza_Smtp
+"Cart Recovery Link","Link de recuperación de carrito",module,Mageplaza_Smtp
+"Copy link","Copiar link",module,Mageplaza_Smtp
+"Send your customer this link to recover their cart","Enviá este link a tu cliente para recuperar su carrito",module,Mageplaza_Smtp
+"Cart Recovery Email Status","Estado del email de recuperación",module,Mageplaza_Smtp
+"Sent Date Logs","Logs de fecha de envío",module,Mageplaza_Smtp
+"View all email logs ","Ver todos los logs de email ",module,Mageplaza_Smtp
+"Cart Details","Detalles del carrito",module,Mageplaza_Smtp
+"Quote ID","ID de cotización",module,Mageplaza_Smtp
+"Created Date","Fecha de creación",module,Mageplaza_Smtp
+"Cart Items","Productos del carrito",module,Mageplaza_Smtp
+"Cart Total","Total del carrito",module,Mageplaza_Smtp
+"Cart Recovery Email","Email de recuperación de carrito",module,Mageplaza_Smtp
+"You can go to  <strong>Marketing > Communications > Email Template</strong> to create new template or edit available template","Podés ir a <strong>Marketing > Comunicaciones > Plantillas de Email</strong> para gestionar tus plantillas.",module,Mageplaza_Smtp
+"Additional Message","Mensaje adicional",module,Mageplaza_Smtp
+"Copied the link","Link copiado",module,Mageplaza_Smtp
+"Excl. Tax:","Sin IVA:",module,Mageplaza_Smtp
+"Incl. Tax:","Con IVA:",module,Mageplaza_Smtp
+" - This button is responsible to store selected styling field of
+            buttons and pay later messaging for the current location and current button type"," - Este botón guarda el estilo de los botones y mensajes de pago aplazado para la ubicación actual.",module,PayPal_Braintree
+" - This button is responsible to store selected styling field of
+            buttons and pay later messaging values for all the Buttons types and locations."," - Este botón guarda el estilo para todos los tipos de botones y ubicaciones.",module,PayPal_Braintree
+" - This button is responsible to set recommended default values to all the
+            buttons and pay later messaging for all the Buttons types and locations."," - Este botón restablece los valores recomendados para todos los botones y ubicaciones.",module,PayPal_Braintree
+"Your note","Tu nota",module,Codazon_SalesPro
+"Enter your comment...","Ingresá tu comentario...",module,Magefan_BetterCheckout
+"Leave a comment","Dejá un comentario",module,Magefan_BetterCheckout
+"Please comeback and complete your purchase!","¡Por favor volvé y completá tu compra!",module,Mageplaza_Smtp
+"Hello %name,","Hola %name,",module,Mageplaza_Smtp
+"Look like you left something in your shopping cart on our site. Please allow me to take you directly back to your cart with no extra fee. I'd be happy to.","Parece que dejaste algo en tu carrito. Permitime llevarte directo de vuelta para que termines tu compra.",module,Mageplaza_Smtp
+%additionalMessage,%additionalMessage,module,Mageplaza_Smtp
+"<a href=""%cart_recovery_link"">Go to your cart</a>","<a href=""%cart_recovery_link"">Ir a tu carrito</a>",module,Mageplaza_Smtp
+"TEST EMAIL from Custom SMTP","EMAIL DE PRUEBA de SMTP personalizado",module,Mageplaza_Smtp
+"Your store has been connected with a custom SMTP successfully. Now you can Save Config and use this connection.","Tu tienda se conectó al SMTP con éxito. Ahora podés guardar la configuración y usar esta conexión.",module,Mageplaza_Smtp
+"No payment method selected.","No se seleccionó ningún método de pago.",module,Codazon_SalesPro
+"No shipping method selected.","No se seleccionó ningún método de envío.",module,Codazon_SalesPro
+"Seleccione un departamento","Seleccioná un departamento",module,Codazon_ShippingCostCalculator
+"Selected Payment Method","Método de pago seleccionado",module,Magefan_BetterCheckout
+"Do you want to proceed with the process?","¿Querés continuar con el proceso?",module,Mageplaza_Core
+"The module has been disabled.","El módulo fue deshabilitado.",module,Mageplaza_Core
+"You need to scan all images before starting optimization process.","Tenés que escanear todas las imágenes antes de empezar la optimización.",module,Mageplaza_Core
+Processing...,Procesando...,module,Mageplaza_Core
+Stop,Detener,module,Mageplaza_Core
+"Are you sure you want to stop processing?","¿Estás seguro de detener el proceso?",module,Mageplaza_Core
+Reprocess,Reprocesar,module,Mageplaza_Core
+"Process failed","El proceso falló",module,Mageplaza_Core
+"Success: ","Éxito: ",module,Mageplaza_Smtp
+"Error: ","Error: ",module,Mageplaza_Smtp
+"Item ID: ","ID del producto: ",module,Mageplaza_Smtp
+"Changes you made may not be saved.","Es posible que los cambios realizados no se guarden.",module,Mageplaza_Smtp
+"Automatic Related Products by Aheadworks (Hyva)","Productos relacionados automáticos (Hyva)",module,Aheadworks_AutorelatedHyva
+"Facebook Pixel","Facebook Pixel",module,Bss_FacebookPixel
+"Enable Facebook Pixel","Habilitar Facebook Pixel",module,Bss_FacebookPixel
+"Pixel ID","ID del Pixel",module,Bss_FacebookPixel
+"Event Tracking","Seguimiento de eventos",module,Bss_FacebookPixel
+"Disable Pageview on","Deshabilitar Pageview en",module,Bss_FacebookPixel
+"Initiate Checkout","Iniciar pago (Initiate Checkout)",module,Bss_FacebookPixel
+Registration,Registro,module,Bss_FacebookPixel
+"Payment Shipping for Customer Group Ver 1.1.5","Pago y envío por grupo de clientes v1.1.5",module,Bss_Paymentshipping
+"
+                                <ul>
+                                    <li>Automatic: Sort order is taken from Automatic Related Product
+                                    rule that is enabled for this product and has highest priority.</li>
+                                    <li>Manual: Sort order is taken from Related Products, Up-Sell Products,
+                                    and Cross-Sell Products settings below.</li>
+                                </ul>
+                            ","<ul> <li>Automático: El orden de clasificación se toma de la regla de Productos Relacionados Automáticos con mayor prioridad.</li> <li>Manual: El orden se toma de los ajustes de Productos Relacionados, Up-Sell y Cross-Sell de abajo.</li> </ul>",module,Aheadworks_Autorelated
+Deactivate,Desactivar,module,Aheadworks_Giftcard
+"Save & Continue Edit","Guardar y continuar editando",module,Aheadworks_Giftcard
+"Save & Resend Gift Card","Guardar y reenviar tarjeta de regalo",module,Aheadworks_Giftcard
+"Save & Send Gift Card","Guardar y enviar tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card (%1)","Tarjeta de regalo (%1)",module,Aheadworks_Giftcard
+"You must to enable cross border trade for correct catalog price. Click <a href=%1>here</a> to edit","Tenés que habilitar el comercio transfronterizo para precios de catálogo correctos. Hacé clic <a href=%1>acá</a> para editar.",module,Aheadworks_Giftcard
+"Choose an amount...","Elegí un monto...",module,Aheadworks_Giftcard
+"Other amount...","Otro monto...",module,Aheadworks_Giftcard
+"Sample file is not available: %1","El archivo de muestra no está disponible: %1",module,Aheadworks_Giftcard
+"Gift card code was successfully activated","El código de la tarjeta de regalo fue activado con éxito",module,Aheadworks_Giftcard
+"Something went wrong while activating gift card code","Algo salió mal al activar el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card code was successfully deactivated","El código de la tarjeta de regalo fue desactivado con éxito",module,Aheadworks_Giftcard
+"Something went wrong while deactivating gift card code","Algo salió mal al desactivar el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card code was successfully deleted","El código de la tarjeta de regalo fue eliminado con éxito",module,Aheadworks_Giftcard
+"Gift card code could not be deleted","El código de la tarjeta de regalo no pudo ser eliminado",module,Aheadworks_Giftcard
+"This gift card no longer exists.","Esta tarjeta de regalo ya no existe.",module,Aheadworks_Giftcard
+"Edit gift card code","Editar código de tarjeta de regalo",module,Aheadworks_Giftcard
+"New gift card code","Nuevo código de tarjeta de regalo",module,Aheadworks_Giftcard
+"File is not uploaded","El archivo no fue subido",module,Aheadworks_Giftcard
+"Imported codes %1 of %2","Códigos importados: %1 de %2",module,Aheadworks_Giftcard
+"Imported codes %1 of %2. Details are available in log file: %3","Códigos importados: %1 de %2. Detalles en el archivo log: %3",module,Aheadworks_Giftcard
+"Sample file is not available","El archivo de muestra no está disponible",module,Aheadworks_Giftcard
+"Gift card codes","Códigos de tarjeta de regalo",module,Aheadworks_Giftcard
+"A total of %1 gift card code(s) have been activated","Se activaron un total de %1 código(s) de tarjeta de regalo",module,Aheadworks_Giftcard
+"A total of %1 gift card code(s) have been deactivated","Se desactivaron un total de %1 código(s) de tarjeta de regalo",module,Aheadworks_Giftcard
+"A total of %1 gift card(s) have been deleted.","Se eliminaron un total de %1 tarjeta(s) de regalo.",module,Aheadworks_Giftcard
+"Recipient was successfully deleted","El destinatario fue eliminado con éxito",module,Aheadworks_Giftcard
+"Something went wrong while saving the gift card code","Algo salió mal al guardar el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Code was successfully deleted","El código fue eliminado con éxito",module,Aheadworks_Giftcard
+"A total of %1 code(s) have been deleted","Un total de %1 código(s) fueron eliminados",module,Aheadworks_Giftcard
+"Code pool was successfully deleted","El lote de códigos fue eliminado con éxito",module,Aheadworks_Giftcard
+"Code pool could not be deleted","El lote de códigos no pudo ser eliminado",module,Aheadworks_Giftcard
+"This pool no longer exists","Este lote ya no existe",module,Aheadworks_Giftcard
+"Edit code pool","Editar lote de códigos",module,Aheadworks_Giftcard
+"New code pool","Nuevo lote de códigos",module,Aheadworks_Giftcard
+"Code pools","Lotes de códigos",module,Aheadworks_Giftcard
+"A total of %1 code pool(s) have been deleted","Un total de %1 lote(s) de códigos fueron eliminados",module,Aheadworks_Giftcard
+"Code pool was successfully saved","El lote de códigos fue guardado con éxito",module,Aheadworks_Giftcard
+"Something went wrong while saving the code pool","Algo salió mal al guardar el lote de códigos",module,Aheadworks_Giftcard
+"Generated codes %1 of %2","Códigos generados: %1 de %2",module,Aheadworks_Giftcard
+"Something went wrong while generating codes into pool","Algo salió mal al generar códigos para el lote",module,Aheadworks_Giftcard
+"Something went wrong while importing codes to pool","Algo salió mal al importar códigos al lote",module,Aheadworks_Giftcard
+"Gift card products","Productos de tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card code ""%1"" is not valid","El código de tarjeta de regalo ""%1"" no es válido",module,Aheadworks_Giftcard
+"Gift card","Tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card code ""%1"" was successfully applied","El código ""%1"" fue aplicado con éxito",module,Aheadworks_Giftcard
+"Cannot apply gift card code","No se pudo aplicar el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card code ""%1"" was successfully removed","El código ""%1"" fue quitado con éxito",module,Aheadworks_Giftcard
+"Cannot remove gift card code","No se pudo quitar el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"The value of attribute ""%1"" must be greater than 0 and less than 100.","El valor del atributo ""%1"" debe ser mayor a 0 y menor a 100.",module,Aheadworks_Giftcard
+"Expiration date cannot be in the past","La fecha de vencimiento no puede ser pasada",module,Aheadworks_Giftcard
+"Expiration reminder date cannot be in the past","La fecha del recordatorio de vencimiento no puede ser pasada",module,Aheadworks_Giftcard
+"Gift card code %1 already in use","El código de tarjeta de regalo %1 ya está en uso",module,Aheadworks_Giftcard
+"Unable to activate gift card code","No se pudo activar el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Unable to deactivate gift card code","No se pudo desactivar el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Unable to change balance of deactivated gift card code","No se puede cambiar el saldo de un código desactivado",module,Aheadworks_Giftcard
+"The date of the expiration date reminder cannot be longer than the expiration date","El recordatorio de vencimiento no puede ser posterior a la fecha de vencimiento",module,Aheadworks_Giftcard
+"Headline and/or message has been changed for gift card code %1","Se modificó el encabezado o mensaje para el código %1",module,Aheadworks_Giftcard
+"Unable to create gift card code","No se pudo crear el código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Processor type ' . . ' is not allowed!","¡El tipo de procesador no está permitido!",module,Aheadworks_Giftcard
+"Gift card code was successfully saved","El código de la tarjeta de regalo fue guardado con éxito",module,Aheadworks_Giftcard
+"Email was successfully sent","El email fue enviado con éxito",module,Aheadworks_Giftcard
+"Could not send email","No se pudo enviar el email",module,Aheadworks_Giftcard
+"There is no recipients list!","¡No hay lista de destinatarios!",module,Aheadworks_Giftcard
+"The specified gift card code deactivated","El código de tarjeta de regalo especificado está desactivado",module,Aheadworks_Giftcard
+"The specified gift card code expired","El código de tarjeta de regalo especificado venció",module,Aheadworks_Giftcard
+"The specified gift card code used","El código de tarjeta de regalo especificado ya fue usado",module,Aheadworks_Giftcard
+"Verification error while importing data. Details are available in log file: %1","Error de verificación al importar datos. Detalles en el log: %1",module,Aheadworks_Giftcard
+"Missing a required field: %1","Falta un campo obligatorio: %1",module,Aheadworks_Giftcard
+"Missing required value %1 in row %2","Falta el valor obligatorio %1 en la fila %2",module,Aheadworks_Giftcard
+"Initial amount","Monto inicial",module,Aheadworks_Giftcard
+"Expiration date","Fecha de vencimiento",module,Aheadworks_Giftcard
+"Sender name","Nombre del remitente",module,Aheadworks_Giftcard
+"Sender email","Email del remitente",module,Aheadworks_Giftcard
+"Recipient name","Nombre del destinatario",module,Aheadworks_Giftcard
+"Recipient email","Email del destinatario",module,Aheadworks_Giftcard
+"Delivery date","Fecha de entrega",module,Aheadworks_Giftcard
+"Delivery date timezone","Zona horaria de entrega",module,Aheadworks_Giftcard
+"Email sent","Email enviado",module,Aheadworks_Giftcard
+"Email template","Plantilla de email",module,Aheadworks_Giftcard
+"Expiration reminder date","Fecha del recordatorio de vencimiento",module,Aheadworks_Giftcard
+"Expiration reminder status","Estado del recordatorio de vencimiento",module,Aheadworks_Giftcard
+Headline,Encabezado,module,Aheadworks_Giftcard
+"Tax percent","Porcentaje de impuesto",module,Aheadworks_Giftcard
+"Is verify tax rate active","Verificación de tasa de impuestos activa",module,Aheadworks_Giftcard
+"Apply to shipping","Aplicar al envío",module,Aheadworks_Giftcard
+"Code %1 already in use","El código %1 ya está en uso",module,Aheadworks_Giftcard
+"Gift code created","Código de regalo creado",module,Aheadworks_Giftcard
+"Specify amount options","Especificar opciones de monto",module,Aheadworks_Giftcard
+"Duplicate amount found","Se encontró un monto duplicado",module,Aheadworks_Giftcard
+"""Open amount max value"" must be greater than ""open amount min value"".","El ""Valor máximo permitido"" debe ser mayor al ""mínimo"".",module,Aheadworks_Giftcard
+"Specify template options","Especificar opciones de plantilla",module,Aheadworks_Giftcard
+"Duplicate template found","Se encontró una plantilla duplicada",module,Aheadworks_Giftcard
+"Gift card type","Tipo de tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card design","Diseño de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card delivery date","Fecha de entrega de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card delivery date timezone","Zona horaria para la entrega de la tarjeta",module,Aheadworks_Giftcard
+"Gift card sender","Remitente de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card recipient","Destinatario de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card headline","Encabezado de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card message","Mensaje de la tarjeta de regalo",module,Aheadworks_Giftcard
+"An error has occurred while adding product to cart","Ocurrió un error al agregar el producto al carrito",module,Aheadworks_Giftcard
+"Please specify gift card amount","Por favor indicá el monto de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Please specify recipient name","Por favor indicá el nombre del destinatario",module,Aheadworks_Giftcard
+"Please specify sender name","Por favor indicá el nombre del remitente",module,Aheadworks_Giftcard
+"Please specify recipient email","Por favor indicá el email del destinatario",module,Aheadworks_Giftcard
+"Please specify sender email","Por favor indicá el email del remitente",module,Aheadworks_Giftcard
+"Please specify a design","Por favor elegí un diseño",module,Aheadworks_Giftcard
+"Maximum allowed gift card amount is %1","El monto máximo permitido para la tarjeta es %1",module,Aheadworks_Giftcard
+"Minimum allowed gift card amount is %1","El monto mínimo permitido para la tarjeta es %1",module,Aheadworks_Giftcard
+"Cart %1 doesn't contain products","El carrito %1 no tiene productos",module,Aheadworks_Giftcard
+"Gift card code cannot be applied to gift card product","El código de regalo no se puede usar para comprar otra tarjeta de regalo",module,Aheadworks_Giftcard
+"The specified gift card code is not valid","El código de tarjeta de regalo no es válido",module,Aheadworks_Giftcard
+"Gift card code cannot be applied to these products","El código de regalo no se puede aplicar a estos productos",module,Aheadworks_Giftcard
+"The specified gift card code already in the quote","El código de regalo ya está aplicado en la cotización",module,Aheadworks_Giftcard
+"The specified gift card code is not valid for this type of products","El código no es válido para este tipo de productos",module,Aheadworks_Giftcard
+"The specified gift card code has been removed","El código de la tarjeta de regalo fue quitado",module,Aheadworks_Giftcard
+"The specified gift card code not be added","El código de la tarjeta de regalo no pudo ser agregado",module,Aheadworks_Giftcard
+"The specified gift card code not be removed","El código de la tarjeta de regalo no pudo ser quitado",module,Aheadworks_Giftcard
+"Gift Cart code %1 email delivery status: %2","Estado de envío del código %1: %2",module,Aheadworks_Giftcard
+Awaiting,Esperando,module,Aheadworks_Giftcard
+"Not send","No enviado",module,Aheadworks_Giftcard
+"Do not show","No mostrar",module,Aheadworks_Giftcard
+"Show headline field only","Mostrar solo campo de encabezado",module,Aheadworks_Giftcard
+"Show message field only","Mostrar solo campo de mensaje",module,Aheadworks_Giftcard
+"Show headline and message fields","Mostrar campos de encabezado y mensaje",module,Aheadworks_Giftcard
+"Do not send","No enviar",module,Aheadworks_Giftcard
+"Ready to be Sent","Listo para ser enviado",module,Aheadworks_Giftcard
+Deactivated,Desactivado,module,Aheadworks_Giftcard
+"Template filter ' . . ' does not implement required interface.","El filtro de plantilla no implementa la interfaz requerida.",module,Aheadworks_Giftcard
+"The following gift card codes has changed: %1","Cambiaron los siguientes códigos de tarjeta: %1",module,Aheadworks_Giftcard
+"Gift card code ""%1"" is not valid anymore and has been canceled","El código ""%1"" ya no es válido y fue cancelado",module,Aheadworks_Giftcard
+"Delete ""${ $.$data.code }""","Eliminar ""${ $.$data.code }""",module,Aheadworks_Giftcard
+"Are you sure you want to delete a ""${ $.$data.code }"" code?","¿Estás seguro de que querés eliminar el código ""${ $.$data.code }""?",module,Aheadworks_Giftcard
+"All websites","Todos los sitios web",module,Aheadworks_Giftcard
+"Use pattern from","Usar patrón de",module,Aheadworks_Giftcard
+"Email templates","Plantillas de email",module,Aheadworks_Giftcard
+"Click here or drag and drop to add images.","Hacé clic acá o arrastrá las imágenes.",module,Aheadworks_Giftcard
+"Apply gift card code","Aplicar código de tarjeta de regalo",module,Aheadworks_Giftcard
+"The amount is first returned to the balance of the gift card","El monto se devuelve primero al saldo de la tarjeta de regalo",module,Aheadworks_Giftcard
+"This order has a refund with disabled option, so during the subsequent refunds, the validation of returned items with a giftcard is disabled.","Este pedido tiene un reembolso con opción desactivada; se deshabilitó la validación para reembolsos futuros.",module,Aheadworks_Giftcard
+"If you return money to a credit card first, then calculating the refund amount does not include how much was paid with the giftcard. We return the amount of the paid order. Also, during the subsequent returns, the validation of returned items with a giftcard is disabled.","Si devolvés dinero a la tarjeta primero, el cálculo no incluirá lo pagado con giftcard. Se devuelve el monto del pedido pago.",module,Aheadworks_Giftcard
+"Gift card options","Opciones de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Specify amount","Especificar monto",module,Aheadworks_Giftcard
+"Select a design","Elegí un diseño",module,Aheadworks_Giftcard
+"Choose a template...","Elegí una plantilla...",module,Aheadworks_Giftcard
+"Gift card code","Código de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Expires on","Vence el",module,Aheadworks_Giftcard
+"Redeem online at ","Canjealo online en ",module,Aheadworks_Giftcard
+"Your gift card codes","Tus códigos de tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card code information","Información del código de tarjeta de regalo",module,Aheadworks_Giftcard
+"Expire at","Vence el",module,Aheadworks_Giftcard
+"Choose an amount","Elegí un monto",module,Aheadworks_Giftcard
+"Card value (%1)","Valor de la tarjeta (%1)",module,Aheadworks_Giftcard
+"Your Price: ","Tu precio: ",module,Aheadworks_Giftcard
+"Compose your email","Escribí tu email",module,Aheadworks_Giftcard
+"Compose your message","Escribí tu mensaje",module,Aheadworks_Giftcard
+"Select delivery date","Elegí la fecha de entrega",module,Aheadworks_Giftcard
+"Enter your headline here (optional)","Ingresá el encabezado acá (opcional)",module,Aheadworks_Giftcard
+"Enter your gift card message here (optional)","Ingresá el mensaje de la tarjeta acá (opcional)",module,Aheadworks_Giftcard
+"Order Comment: ","Comentario del pedido: ",module,Codazon_SalesPro
+"Shipping Cost","Costo de envío",module,Codazon_ShippingCostCalculator
+Calculate,Calcular,module,Codazon_ShippingCostCalculator
+"The import process was completed successfully.  %1 posts, %2 categories, %3 tags, %4 authors and %5 comments where imported.","La importación fue exitosa. Se importaron %1 posts, %2 categorías, %3 etiquetas, %4 autores y %5 comentarios.",module,Magefan_Blog
+"The import process completed. %1 posts, %2 categories, %3 tags, %4 authors and %5 comments where imported.  Some posts or categories or tags or comments where skipped. %5 %6 %7 %8 %9","Importación completada. Se omitieron algunos elementos. %5 %6 %7 %8 %9",module,Magefan_Blog
+"Magefan Blog is disabled, to enable the extension please navigate to <a href=""%1"" target=""_blank"">Stores > Configuration > Magefan Extensions > Blog</a>.","El blog está deshabilitado. Activalo en Tiendas > Configuración > Extensiones Magefan.",module,Magefan_Blog
+"Magefan Blog <strong>Product Key</strong> is missing. Blog Extension will be automatically disabled soon. Please specify the product key in <a href=""%1"" target=""_blank"">Stores > Configuration > Magefan Extensions > Blog</a>.","Falta la <strong>Product Key</strong> del blog. La extensión se desactivará pronto. Ingresala en los ajustes.",module,Magefan_Blog
+"Your Blog Extension is out of date. You can update it to the <strong>version %1</strong> via composer or you can download the new version archive from the <a href=""%2"" target=""_blank"">Magefan Store</a>. Please <a href=""%3""  target=""_blank"">contact</a> Magefan Team if you have any questions or need help with an update.","Tu extensión está desactualizada. Podés actualizar a la <strong>versión %1</strong> vía composer o desde la tienda.",module,Magefan_Blog
+"Error AEX: Moneda no soportada '%1'. Monedas soportadas: USD, BRL, PYG","Error AEX: Moneda no soportada '%1'. Monedas soportadas: USD, BRL, PYG",module,NisseiStore_Aex
+"Error AEX: No se puede generar guía. La cotización %1 no está configurada. Por favor configure la tasa de cambio en Stores > Currency > Currency Rates","Error AEX: No se puede generar guía. La cotización %1 no está configurada. Por favor configurá la tasa en Tiendas > Moneda.",module,NisseiStore_Aex
+"""No se pudo generar la guia AEX | "" . . ""Response: "" . . "" Direccion: "" . . "" Paquetes: "" .","""No se pudo generar la guía AEX | "" . . ""Respuesta: "" . . "" Dirección: "" . . "" Paquetes: "" .",module,NisseiStore_Aex
+"Error AEX: Moneda no soportada '%1'. Monedas soportadas: USD, BRL, PYG","Error AEX: Moneda no soportada '%1'. Monedas soportadas: USD, BRL, PYG",module,Standard_Aex
+"Error AEX: No se puede generar guía. La cotización %1 no está configurada. Por favor configure la tasa de cambio en Stores > Currency > Currency Rates","Error AEX: No se puede generar guía. La cotización %1 no está configurada. Por favor configurá la tasa en Tiendas > Moneda.",module,Standard_Aex
+"""No se pudo generar la guia AEX | "" . . ""Response: "" . . "" Direccion: "" . . "" Paquetes: "" .","""No se pudo generar la guía AEX | "" . . ""Respuesta: "" . . "" Dirección: "" . . "" Paquetes: "" .",module,Standard_Aex
+"Llegará mañana","Llegará mañana",module,Standard_Fulfillment
+"2 días hábiles","2 días hábiles",module,Standard_Fulfillment
+"Hoy hasta 16h Centro CDE","Hoy hasta 16h Centro CDE",module,Standard_Fulfillment
+"Hoy hasta 16:30h Centro CDE","Hoy hasta 16:30h Centro CDE",module,Standard_Fulfillment
+"Mañana hasta 16:30h Centro CDE","Mañana hasta 16:30h Centro CDE",module,Standard_Fulfillment
+"Seleccione un departamento.","Seleccioná un departamento.",module,Standard_ShippingCostCalculator
+"Seleccione una ciudad","Seleccioná una ciudad",module,Standard_ShippingCostCalculator
+"Costos de delivery","Costos de envío",module,Standard_ShippingCostCalculator
+"Cargando...","Cargando...",module,Standard_ShippingCostCalculator
+Calcular,Calcular,module,Standard_ShippingCostCalculator
+"Geo IP request failed with status code %1","La solicitud de Geo IP falló con el código %1",module,Amasty_Geoip
+"This product includes GeoLite2 Data created by MaxMind. You can update the database manually or use Amasty Service to automatically upload fresh updates. The service is available only with an active product or support subscription.","Este producto incluye datos de GeoLite2 (MaxMind). Podés actualizar manualmente o usar el servicio de Amasty con suscripción activa.",module,Amasty_Geoip
+"The  ""%1"" path doesn't exist. Verify and try again.","La ruta ""%1"" no existe. Verificala e intentalo de nuevo.",module,Magento_Config
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Los productos configurables permiten elegir opciones. Tenés que crear un producto simple para cada variante.",module,Magento_ConfigurableProduct
+"Configured attribute selected option data providers should implement GetAttributeSelectedOptionInterface","Los proveedores de opciones seleccionadas deben implementar GetAttributeSelectedOptionInterface",module,Magento_EavGraphQl
+"Configured attribute selected option data providers should implement GetAttributeSelectedOptionInterface","Los proveedores de opciones seleccionadas deben implementar GetAttributeSelectedOptionInterface",module,Magento_EavGraphQl
+"%1 indexer(s) have been updated to ""Update by Schedule"" mode.  %2 skipped because there was nothing to change.","%1 indexador(es) actualizados al modo ""Por programación"". %2 omitidos.",module,Magento_Indexer
+"%1 indexer(s) have been updated to ""Update on Save"" mode.  %2 skipped because there was nothing to change.","%1 indexador(es) actualizados al modo ""Al guardar"". %2 omitidos.",module,Magento_Indexer
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price. <br>Price is not compatible with <b>'Filterable (no results)'</b> option - it will make no affect on Price filter.","Solo para tipos Sí/No, Desplegable, Selección múltiple y Precio. <br>Precio es incompatible con <b>'Filtrable (sin resultados)'</b>.",module,Magento_LayeredNavigation
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","La integración requiere el agente newrelic-php5. Más info <a href=""%1"">acá</a>.",module,Magento_NewRelicReporting
+"Follow this link to unsubscribe <a href=""{{var subscriber_data.unsubscription_link}}""> {{var subscriber_data.unsubscription_link}}</a>","Seguí este link para desuscribirte <a href=""{{var subscriber_data.unsubscription_link}}"">{{var subscriber_data.unsubscription_link}}</a>",module,Magento_Newsletter
+"The address total model should be extended from \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","El modelo total de dirección debe extender de AbstractTotal.",module,Magento_Quote
+"Please note, for reCAPTCHA to be enabled, the valid ""Google API Website Key"" and ""Google API Secret Key"" fields are required.","Para habilitar reCAPTCHA se requieren las llaves válidas de Google API.",module,Magento_ReCaptchaAdminUi
+" - This button is responsible to store selected styling field of buttons and pay later messaging for the current location and current button type"," - Este botón guarda el estilo de los botones y mensajes de pago aplazado para la ubicación actual.",module,PayPal_Braintree
+" - This button is responsible to store selected styling field of buttons and pay later messaging values for all the Buttons types and locations."," - Este botón guarda el estilo para todos los tipos de botones y ubicaciones.",module,PayPal_Braintree
+" - This button is responsible to set recommended default values to all the buttons and pay later messaging for all the Buttons types and locations."," - Este botón restablece los valores recomendados para todos los botones y ubicaciones.",module,PayPal_Braintree
+"Shop now","Comprar ahora",module,Aheadworks_Giftcard
+"Apply on shopping cart page","Aplicar en la página del carrito",module,Aheadworks_Giftcard
+"Same as amount","Igual que el monto",module,Aheadworks_Giftcard
+"Delete file","Eliminar archivo",module,Aheadworks_Giftcard
+"Download sample CSV","Descargar CSV de muestra",module,Aheadworks_Giftcard
+"Upload CSV","Subir CSV",module,Aheadworks_Giftcard
+"Download Sample","Descargar muestra",module,Aheadworks_Giftcard
+"A Reminder About Expiring Giftcard ""%code""","Recordatorio: Tu tarjeta de regalo ""%code"" va a vencer",module,Aheadworks_Giftcard
+"Dear %recipient_name,","Estimado/a %recipient_name,",module,Aheadworks_Giftcard
+"This letter informs you, that your Giftcard expires in %days_number_until_expired days.","Te avisamos que tu tarjeta de regalo vence en %days_number_until_expired días.",module,Aheadworks_Giftcard
+"Your Giftcard %code has expired.","Tu tarjeta de regalo %code venció.",module,Aheadworks_Giftcard
+"Your note","Tu nota",module,Codazon_SalesPro
+"Please, mind that your emails sending period is greater than Quote Lifetime (days). (To check it, please, go to Stores->Configuration->Sales->Checkout->Shopping Cart->Quote Lifetime).","Atención: el período de envío es mayor a la duración de la cotización. Revisalo en la configuración del carrito.",module,Amasty_Acart
+"Please enter a number from 0 to 100, without comma in this field.","Por favor ingresá un número de 0 a 100 sin comas.",module,Aheadworks_Giftcard
+"This gift card is scheduled for delivery on {date}. Are you sure you want to send it now?","La tarjeta está programada para el {date}. ¿Seguro que querés enviarla ahora?",module,Aheadworks_Giftcard
+"Save without sending","Guardar sin enviar",module,Aheadworks_Giftcard
+"Send now","Enviar ahora",module,Aheadworks_Giftcard
+Notice,Aviso,module,Aheadworks_Giftcard
+"Your gift card code was successfully applied","Tu código de regalo fue aplicado con éxito",module,Aheadworks_Giftcard
+"Your gift card code was successfully removed","Tu código de regalo fue quitado con éxito",module,Aheadworks_Giftcard
+"Please remove invalid charachters: %s","Por favor quitá los caracteres inválidos: %s",module,Aheadworks_Giftcard
+"No payment method selected.","No se seleccionó ningún método de pago.",module,Codazon_SalesPro
+"No shipping method selected.","No se seleccionó ningún método de envío.",module,Codazon_SalesPro
+"Seleccione un departamento","Seleccioná un departamento",module,Standard_ShippingCostCalculator
+"Geo Ip data is up-to-date.","Los datos de Geo Ip están al día.",module,Amasty_Geoip
+"Enable on frontend","Habilitar en la tienda",module,Aheadworks_Giftcard
+"Gift card expires after (days)","La tarjeta vence después de (días)",module,Aheadworks_Giftcard
+"Enable time zone selector on frontend","Habilitar selector de zona horaria",module,Aheadworks_Giftcard
+"Allow timezones","Permitir zonas horarias",module,Aheadworks_Giftcard
+"Redeemable globally","Canjeable globalmente",module,Aheadworks_Giftcard
+"If enabled, gift cards can be redeemed across all websites.","Si se habilita, las tarjetas se pueden canjear en todos los sitios web.",module,Aheadworks_Giftcard
+"Email settings","Ajustes de email",module,Aheadworks_Giftcard
+"Gift card notification email sender","Remitente de notificación de tarjeta de regalo",module,Aheadworks_Giftcard
+"Gift card expiration reminder template","Plantilla de recordatorio de vencimiento",module,Aheadworks_Giftcard
+"Send expiration reminder after, days","Enviar recordatorio de vencimiento tras X días",module,Aheadworks_Giftcard
+"Gift card code pattern","Patrón del código de la tarjeta",module,Aheadworks_Giftcard
+"Code length","Largo del código",module,Aheadworks_Giftcard
+"Excluding prefix, suffix, and separators","Sin contar prefijos, sufijos ni separadores",module,Aheadworks_Giftcard
+"Code format","Formato del código",module,Aheadworks_Giftcard
+"Code prefix","Prefijo del código",module,Aheadworks_Giftcard
+"Code suffix","Sufijo del código",module,Aheadworks_Giftcard
+"Dash every X characters","Guion cada X caracteres",module,Aheadworks_Giftcard
+"Include tax in card value","Incluir impuestos en el valor de la tarjeta",module,Aheadworks_Giftcard
+"Verify tax rate for new gift cards","Verificar tasa de impuestos para tarjetas nuevas",module,Aheadworks_Giftcard
+"Allowed payment methods for gift card purchase","Métodos de pago permitidos para comprar tarjetas",module,Aheadworks_Giftcard
+"Gift card information","Información de la tarjeta de regalo",module,Aheadworks_Giftcard
+"Code pool","Lote de códigos",module,Aheadworks_Giftcard
+"if selected pool is empty a new code will be generated as per pool configuration","si el lote está vacío, se generará uno nuevo según la configuración",module,Aheadworks_Giftcard
+"Verify gift card tax rate","Verificar tasa de impuestos de la tarjeta",module,Aheadworks_Giftcard
+"Expire on","Vence el",module,Aheadworks_Giftcard
+"Send expiration reminder on","Enviar recordatorio de vencimiento el",module,Aheadworks_Giftcard
+"Expires after, days","Vence después de X días",module,Aheadworks_Giftcard
+"Store view","Vista de tienda",module,Aheadworks_Giftcard
+"Sender details","Detalles del remitente",module,Aheadworks_Giftcard
+"Order information","Información del pedido",module,Aheadworks_Giftcard
+"Customer name","Nombre del cliente",module,Aheadworks_Giftcard
+"Recipient details","Detalles del destinatario",module,Aheadworks_Giftcard
+"Send gift cards in bulk","Enviar tarjetas de regalo masivamente",module,Aheadworks_Giftcard
+"Apply gift card only to items matching the following conditions (leave blank for all items).","Aplicar solo a productos que cumplan las condiciones (o dejar vacío).",module,Aheadworks_Giftcard
+"Balance change","Cambio de saldo",module,Aheadworks_Giftcard
+"Additional information","Información adicional",module,Aheadworks_Giftcard
+"Add gift card code","Agregar código de tarjeta de regalo",module,Aheadworks_Giftcard
+"Activate gift cards","Activar tarjetas de regalo",module,Aheadworks_Giftcard
+"Activate selected gift cards?","¿Activar las tarjetas seleccionadas?",module,Aheadworks_Giftcard
+"Deactivate gift cards","Desactivar tarjetas de regalo",module,Aheadworks_Giftcard
+"Deactivate selected gift cards?","¿Desactivar las tarjetas seleccionadas?",module,Aheadworks_Giftcard
+"Delete gift cards","Eliminar tarjetas de regalo",module,Aheadworks_Giftcard
+"Delete selected gift cards?","¿Eliminar las tarjetas seleccionadas?",module,Aheadworks_Giftcard
+"Import from csv file","Importar desde archivo CSV",module,Aheadworks_Giftcard
+"Are you sure you want to delete the selected codes?","¿Estás seguro de que querés eliminar los códigos seleccionados?",module,Aheadworks_Giftcard
+"General information","Información general",module,Aheadworks_Giftcard
+"Code pattern","Patrón de código",module,Aheadworks_Giftcard
+"Number of codes to generate","Cantidad de códigos a generar",module,Aheadworks_Giftcard
+"Import codes","Importar códigos",module,Aheadworks_Giftcard
+"From csv file","Desde archivo CSV",module,Aheadworks_Giftcard
+"Manage pool codes","Gestionar códigos del lote",module,Aheadworks_Giftcard
+"Add code pool","Agregar lote de códigos",module,Aheadworks_Giftcard
+"Are you sure you want to delete the selected code pools?","¿Estás seguro de que querés eliminar los lotes seleccionados?",module,Aheadworks_Giftcard
+"Number of codes","Cantidad de códigos",module,Aheadworks_Giftcard
+"Codes left","Códigos restantes",module,Aheadworks_Giftcard
+"Add gift card product","Agregar producto de tarjeta de regalo",module,Aheadworks_Giftcard
+"Enable selected items?","¿Habilitar los productos seleccionados?",module,Aheadworks_Giftcard
+"Disable selected items?","¿Deshabilitar los productos seleccionados?",module,Aheadworks_Giftcard
+"Product name","Nombre del producto",module,Aheadworks_Giftcard
+"Purchased qty","Cant. comprada",module,Aheadworks_Giftcard
+"Used qty","Cant. usada",module,Aheadworks_Giftcard
+"Purchased amount","Monto comprado",module,Aheadworks_Giftcard
+"Used amount","Monto usado",module,Aheadworks_Giftcard
+"Email template(s)","Plantilla(s) de email",module,Aheadworks_Giftcard
+"Attribute set","Conjunto de atributos",module,Aheadworks_Giftcard
+"Use to add more AMP components library. E.g., <script async custom-element=""amp-audio"" src=""https://cdn.ampproject.org/v0/amp-audio-0.1.js""></script>","Usalo para agregar más componentes AMP. Ej: <script ...></script>",module,Codazon_GoogleAmpManager
+"ID of looks displayed on the list. Separate IDs by comma (,). E.g., ""22,6,23,11"". Go to menu Codazon > Lookbook Pro > Lookbook Item to create looks.","IDs de los looks. Separá con coma. Ej: ""22,6"". Creá los looks en Codazon > Lookbook Pro.",module,Codazon_Lookbookpro
+"1280 ≤  Window width < 1420. Default: 1.","1280 ≤ Ancho de ventana < 1420. Predeterminado: 1.",module,Codazon_Lookbookpro
+"980 ≤  Window width < 1280. Default: 1.","980 ≤ Ancho de ventana < 1280. Predeterminado: 1.",module,Codazon_Lookbookpro
+"Show <ul> tag wrapping all menu items?","¿Mostrar etiqueta <ul> envolviendo los ítems?",module,Codazon_MegaMenu
+"<ul class=""<strong>[value]</strong>"">...</ul>. Default: <strong>groupmenu-drop</strong>","<ul class=""<strong>[valor]</strong>"">...</ul>. Predeterminado: <strong>groupmenu-drop</strong>",module,Codazon_MegaMenu
+"<li class=""<strong>[value]</strong>"">...</li>","<li class=""<strong>[valor]</strong>"">...</li>",module,Codazon_MegaMenu
+"1280 ≤  Window width < 1420. Default: 5.","1280 ≤ Ancho de ventana < 1420. Predeterminado: 5.",module,Codazon_ProductFilter
+"980 ≤  Window width < 1280. Default: 3.","980 ≤ Ancho de ventana < 1280. Predeterminado: 3.",module,Codazon_ProductFilter
+"Sales Pro","Ventas Pro",module,Codazon_SalesPro
+"One Step Checkout","Compra en un paso (One Step Checkout)",module,Codazon_SalesPro
+"Place order button label","Etiqueta del botón de realizar pedido",module,Codazon_SalesPro
+"Leave empty to use default label: <strong>Place Order</strong>","Dejá vacío para el valor por defecto: <strong>Realizar pedido</strong>",module,Codazon_SalesPro
+"Enable Order Comment","Habilitar comentarios en el pedido",module,Codazon_SalesPro
+"Enable Apply Discount Code","Habilitar aplicación de código de descuento",module,Codazon_SalesPro
+"Move ""Apply Discount Code"" block to Order Summary bar","Mover el bloque de descuento al resumen del pedido",module,Codazon_SalesPro
+"Force to select shipping method","Forzar selección de método de envío",module,Codazon_SalesPro
+"Default shipping method","Método de envío por defecto",module,Codazon_SalesPro
+"Shipping Estimation","Estimación de envío",module,Codazon_ShippingCostCalculator
+"Display Country Field","Mostrar campo País",module,Codazon_ShippingCostCalculator
+"Display Region Field","Mostrar campo Provincia",module,Codazon_ShippingCostCalculator
+"Display Zip/Postal Code Field","Mostrar campo Código Postal",module,Codazon_ShippingCostCalculator
+"Use Price Including Tax","Usar precio con impuestos",module,Codazon_ShippingCostCalculator
+"If set No, Price Excluding Tax will be displayed for shipping price","Si marcás No, se verá el precio de envío sin impuestos",module,Codazon_ShippingCostCalculator
+"No shipping message","Mensaje de 'Sin envíos'",module,Codazon_ShippingCostCalculator
+"Action label","Etiqueta de acción",module,Codazon_ShippingCostCalculator
+"Display Flag","Mostrar bandera",module,Codazon_ShippingCostCalculator
+"1280 ≤  Window width < 1420. Default: 7.","1280 ≤ Ancho de ventana < 1420. Predeterminado: 7.",module,Codazon_Shopbybrandpro
+"980 ≤  Window width < 1280. Default: 3.","980 ≤ Ancho de ventana < 1280. Predeterminado: 3.",module,Codazon_Shopbybrandpro
+"<p>Use syntax below: <br /> <attribute set 1 name>:<CMS block 1 identifier><br /> <attribute set 2 name>:<CMS block 2 identifier><br />(Break line to add new mapping).<br /> E.g.: </p><p style=""border:1px solid #eb5202;padding: 5px;margin: 10px 0px;""><span style=""color:#eb5202"">Default</span>:codazon-sizechart-default<br /><span style=""color:#eb5202"">Women Clothing</span>:codazon-sizechart-women-clothing</p><p>Note: Empty ""Size Chart Link Label"" field below to use the cms block name as link label.</p>","<p>Usá la sintaxis: <br /> <nombre del conjunto>:<identificador del bloque CMS><br /> Ej: </p><p style=""border:1px solid #eb5202;padding: 5px;margin: 10px 0px;""><span style=""color:#eb5202"">Default</span>:codazon-sizechart-default</p>",module,Codazon_ThemeLayoutPro
+"<p>If you don't have api key. You can use the Google map url instead. However, the features can be limited.</p><p>Go <a target=""_blank"" href=""https://www.embedgooglemap.net/"">this page</a> to get map url.</p><p>Note: After get the HTML code, only copy the <strong>src</strong> attribute value of <iframe> tag and paste it to this field. E.g.:</p><p style=""padding: 4px;border:1px solid #ccc;background: #f1f1f1;font-size: 13px;"">https://maps.google.com/maps?q=6505%20boulevard%20Henri-Bourassa,%20Montr%C3%A9al,%20Quebec,%20H1G2V5&t=&z=13&ie=UTF8&iwloc=&output=embed</p>","<p>Si no tenés API Key, podés usar la URL del mapa directamente. Copiá solo el valor <strong>src</strong> de la etiqueta <iframe>.",module,Codazon_ThemeLayoutPro
+"1280 ≤  Window width < 1420. Default: 5.","1280 ≤ Ancho de ventana < 1420. Predeterminado: 5.",module,Codazon_ThemeLayoutPro
+"980 ≤  Window width < 1280. Default: 3.","980 ≤ Ancho de ventana < 1280. Predeterminado: 3.",module,Codazon_ThemeLayoutPro
+"<a href=""https://developers.facebook.com/docs/apps/register/"" target=""_blank""> How do I get a Facebook Application ID? </a>","<a href=""#"" target=""_blank""> ¿Cómo obtengo un ID de aplicación de Facebook? </a>",module,Magefan_Blog
+"<a href=""https://help.disqus.com/customer/portal/articles/466208"" target=""_blank""> What's a shortname? </a>","<a href=""#"" target=""_blank""> ¿Qué es un nombre corto (shortname)? </a>",module,Magefan_Blog
+" Leave blank to use default template Magefan_Blog::widget/recent.phtml. <br/> Magefan_Blog::widget/recent_masonry.phtml template is also available out of the box. <br/> If you use Blog Extra, you can also apply these ones:  <pre> Magefan_BlogExtra::post/list/block-0-1-full.phtml </pre> ","Dejá vacío para usar la plantilla por defecto. Si usás Blog Extra, podés aplicar las avanzadas listadas arriba.",module,Magefan_Blog
+" Enter user ID. "," Ingresá el ID de usuario. ",module,Magefan_Blog
+" <strong>Notice:</strong> <em>Please use this section only if you need to enter short content completely different from main content.<br/>Please <a href=""#"" target=""_blank"" title=""Add &quot;read more&quot; tag to Magento 2 blog post content"">read more</a> about how to configure ""read more"" tag.</em> ","<strong>Aviso:</strong> Usá esto solo si el resumen es distinto al contenido principal. <a href=""#"" target=""_blank"">Leé más</a> sobre la etiqueta ""leer más"".",module,Magefan_Blog
+"This extension is fully compatible with <a href=""https://www.mageplaza.com/magento-2-one-step-checkout-extension/"" target=""_blank"">One Step Checkout</a>. <br> 1. Increase 25% conversion rate with <a href=""https://www.mageplaza.com/magento-2-layered-navigation-extension/"" target=""_blank"">Layered Navigation</a><br> 2. Magento stores see upwards of 30% revenue 💰 with AVADA. <a href=""https://go.avada.io/mageplaza"">Learn more</a>","Compatible con <a href=""#"">One Step Checkout</a>. <br> 1. Subí la conversión un 25% con <a href=""#"">Layered Navigation</a><br> 2. Subí ventas un 30% con AVADA. <a href=""#"">Más info</a>",module,Mageplaza_SocialLogin
+"Standard Extensions","Extensiones Standard",module,Standard_CustomerAttributes
+"Facebook Category ID Number","Número de ID de categoría de Facebook",module,Standard_FacebookCategory
+Fulfillment,Gestión (Fulfillment),module,Standard_Fulfillment
+"Enable Module","Habilitar módulo",module,Standard_Fulfillment
+"Enable Shipping","Habilitar envío",module,Standard_Fulfillment
+"Enable Pickup","Habilitar retiro",module,Standard_Fulfillment
+"Enable Delivery","Habilitar entrega",module,Standard_Fulfillment
+"Enable eLocker","Habilitar eLocker",module,Standard_Fulfillment
+"Texts & Titles","Textos y títulos",module,Standard_Fulfillment
+"Main Section Title","Título de la sección principal",module,Standard_Fulfillment
+"Shipping Title","Título de envío",module,Standard_Fulfillment
+"Pickup Title","Título de retiro",module,Standard_Fulfillment
+"Delivery Title","Título de entrega",module,Standard_Fulfillment
+"eLocker Title","Título de eLocker",module,Standard_Fulfillment
+"Pickup Price","Precio de retiro",module,Standard_Fulfillment
+"Delivery Price","Precio de entrega",module,Standard_Fulfillment
+"eLocker Price","Precio de eLocker",module,Standard_Fulfillment
+Icons,Iconos,module,Standard_Fulfillment
+"Shipping Icon","Icono de envío",module,Standard_Fulfillment
+"Pickup Icon","Icono de retiro",module,Standard_Fulfillment
+"Delivery Icon","Icono de entrega",module,Standard_Fulfillment
+"eLocker Icon","Icono de eLocker",module,Standard_Fulfillment
+"Shipping Estimation","Estimación de envío",module,Standard_ShippingCostCalculator
+"Display Country Field","Mostrar campo País",module,Standard_ShippingCostCalculator
+"Display Region Field","Mostrar campo Provincia",module,Standard_ShippingCostCalculator
+"Display Zip/Postal Code Field","Mostrar campo Código Postal",module,Standard_ShippingCostCalculator
+"Use Price Including Tax","Usar precio con impuestos",module,Standard_ShippingCostCalculator
+"If set No, Price Excluding Tax will be displayed for shipping price","Si marcás No, se verá el precio de envío sin impuestos",module,Standard_ShippingCostCalculator
+"No shipping message","Mensaje de 'Sin envíos'",module,Standard_ShippingCostCalculator
+"Action label","Etiqueta de acción",module,Standard_ShippingCostCalculator
+"Display Flag","Mostrar bandera",module,Standard_ShippingCostCalculator
